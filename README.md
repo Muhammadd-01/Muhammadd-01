@@ -27,11 +27,16 @@
 [![](https://visitcount.itsvg.in/api?id=Muhammadd-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## 🐍 My GitHub Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-light.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-ocean.svg" />
 </picture>
+
+### 🌈 **Alternate Snake Theme**
+![Rainbow Snake](https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-rainbow.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

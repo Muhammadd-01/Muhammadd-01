@@ -3,10 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Muhammad%20Affan&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Muhammad Affan">
 </p>
 
-<!-- Futuristic Developer GIF -->
+<!-- Futuristic Developer Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Developer Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Futuristic Coding GIF">
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">

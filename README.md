@@ -35,8 +35,7 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-ocean.svg" />
 </picture>
 
-### 🌈 **Alternate Snake Theme**
-![Rainbow Snake](https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-rainbow.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

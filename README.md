@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Muhammadd-01&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Muhammadd-01">
 </p>
 
-<!-- Developer GIF -->
+<!-- Futuristic GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Coding GIF">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Futuristic Coding GIF">
 </p>
 
 <!-- Typing Animation -->
@@ -18,11 +18,8 @@
 # 💫 About Me:
 - 🌍 From Karachi, Pakistan | Crafting Modern Web & AI Solutions
 - 💻 Full-Stack Developer | 🚀 MERN & MEAN Stack | 🎯 AI & Data Enthusiast
-- 🏆 Passionate Coder & Problem Solver | 📍 Karachi, Pakistan
-- 🛠️ Building Scalable & Interactive Web Apps | 🌐 From Pakistan 🇵🇰
-- 💡 Software Engineer | 🔥 Tech Innovator | 📍 Karachi, Pakistan
-- 🌎 Global Learner | 🤖 AI & ML Explorer | 💼 Freelancer | 🇵🇰
-- ⚡ Tech Enthusiast | 🎨 UI/UX Lover | 💡 Always Learning
+- 🏆 Passionate Coder & Problem Solver | 💼 Freelancer | 🇵🇰
+- 🛠️ Building Scalable & Interactive Web Apps | 💡 Always Learning
 
 ## 🌐 Socials:
 <p align="center">
@@ -51,8 +48,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadd-01&theme=radical" alt="Most Used Commit Language">
 </p>
 
+<!-- Fixed Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Muhammadd-01&theme=radical&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadd-01&theme=radical&hide_border=true" alt="Activity Graph">
 </p>
 
 ## 🏆 GitHub Achievements:
@@ -101,3 +99,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=200&section=footer" alt="Footer">
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

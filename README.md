@@ -1,12 +1,18 @@
+
 <!-- Banner Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Muhammad%20Affan&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Muhammad Affan">
 </p>
 
+<!-- Developer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Coding GIF">
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Data+Enthusiast;Tech+Innovator;UI%2FUX+Lover" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Open-Source+Contributor;Lifelong+Learner;Building+Awesome+Projects" alt="Typing SVG">
   </a>
 </p>
 
@@ -17,39 +23,62 @@
 - 🛠️ Building Scalable & Interactive Web Apps | 🌐 From Pakistan 🇵🇰
 - 💡 Software Engineer | 🔥 Tech Innovator | 📍 Karachi, Pakistan
 - 🌎 Global Learner | 🤖 AI & ML Explorer | 💼 Freelancer | 🇵🇰
-- ⚡ Tech Enthusiast | 🎨 UI/UX Lover | 💡 Always Learning | From Pakistan 🇵🇰
+- ⚡ Tech Enthusiast | 🎨 UI/UX Lover | 💡 Always Learning
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61572493182768"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/almuharib._.7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/muhammad-affan-8ab604280"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@muhammadaffan1445"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://www.quora.com/profile/Muhammad-Affan-256/"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"></a>
-  <a href="mailto:affan.work05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/profile.php?id=61572493182768"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/almuharib._.7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhammad-affan-8ab604280"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:affan.work05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/node.js-
-::contentReference[oaicite:2]{index=2}
- 
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,python,java,php,laravel,nodejs,express,tailwind,css,html,javascript,mysql,mongodb,postgres,docker,aws,azure,netlify,vercel,git,github,graphql,figma,postman" alt="Tech Stack" width="800">
+</p>
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadd-01&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadd-01&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadd-01&theme=radical" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadd-01&theme=radical" alt="Most Used Commit Language">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Muhammadd-01&theme=radical&hide_border=true" alt="Activity Graph">
+</p>
+
+## 🏆 GitHub Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadd-01&theme=radical&no-frame=true&row=1&column=7">
+</p>
+
+## 🎵 Now Playing:
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zmwqlvqzovot7qscdxpwxmgu4m&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Playing">
+</p>
+
+## 🚀 Fun Facts:
+- 🎯 Favorite Tech: React, Angular, Python & AI Development
+- 🏆 Built Various AI-Based Web Apps & Solutions
+- 🤖 Love Exploring Machine Learning & Deep Learning
+- 🎮 Gaming Enthusiast | ⚽ Football Fan | 🎵 Music Lover
+- 📖 Passionate about Islamic History & Paranormal Studies
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=200&section=footer" alt="Footer">
+</p>
+```
+
 
 
 ## 🏆 GitHub Trophies

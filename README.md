@@ -1,7 +1,6 @@
-
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Muhammad%20Affan&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Muhammad Affan">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Muhammadd-01&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Muhammadd-01">
 </p>
 
 <!-- Developer GIF -->
@@ -61,11 +60,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammadd-01&theme=radical&no-frame=true&row=1&column=7">
 </p>
 
-## 🎵 Now Playing:
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zmwqlvqzovot7qscdxpwxmgu4m&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Playing">
-</p>
-
 ## 🚀 Fun Facts:
 - 🎯 Favorite Tech: React, Angular, Python & AI Development
 - 🏆 Built Various AI-Based Web Apps & Solutions
@@ -73,51 +67,37 @@
 - 🎮 Gaming Enthusiast | ⚽ Football Fan | 🎵 Music Lover
 - 📖 Passionate about Islamic History & Paranormal Studies
 
+## 🔥 GitHub Highlights:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadd-01&theme=radical" alt="Profile Details">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadd-01&theme=radical&layout=compact" alt="Top Languages">
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadd-01&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</p>
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Muhammadd-01&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
+
+## 🐍 GitHub Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
+  </picture>
+</p>
+
 <!-- Footer Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=200&section=footer" alt="Footer">
 </p>
-```
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammadd-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muhammadd-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Muhammadd-01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 🐍 GitHub Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
-</picture>
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Muhammadd-01/Muhammadd-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

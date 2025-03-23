@@ -12,6 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammadd-01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadd-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muhammadd-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -23,6 +25,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Muhammadd-01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

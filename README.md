@@ -85,13 +85,18 @@
 
 ---
 
-## 🚀 Fun Facts:
+
+
+## 🚀 Fun Facts:  
 
 - 🎯 Favorite Tech: React, Angular, Python & AI Development  
 - 🏆 Built Various AI-Based Web Apps & Solutions  
 - 🤖 Love Exploring Machine Learning & Deep Learning  
-- 🎮 Gaming Enthusiast | ⚽ Football Fan | 🎵 Music Lover  
-- 📖 Passionate about Islamic History & Paranormal Studies  
+- 🎮 Gaming Enthusiast  
+- 🕌 Passionate about Islamic History & Teachings  
+- 🌌 Interested in Paranormal Studies & Islamic Mysticism  
+- 📜 Analyze & Research Historical, Paranormal & Crime Case Studies  
+
 
 ---
 

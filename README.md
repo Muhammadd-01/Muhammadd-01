@@ -84,6 +84,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 🚀 Fun Facts:
 - 🎯 Favorite Tech: React, Angular, Python & AI Development  
 - 🏆 Built Various AI-Based Web Apps & Solutions  
@@ -91,6 +92,19 @@
 - 🕵️‍♂️ Security Nerd — Fascinated by Cybersecurity, CTFs & Exploit Hunting  
 - 🎮 Gaming Enthusiast | ⚽ Football Fan | 🎵 Music Lover  
 - 📖 Passionate about Islamic History, Mysticism & Paranormal Investigations  
+=======
+
+
+## 🚀 Fun Facts:  
+
+- 🎯 Favorite Tech: React, Angular, Python & AI Development  
+- 🏆 Built Various AI-Based Web Apps & Solutions  
+- 🤖 Love Exploring Machine Learning & Deep Learning  
+- 🎮 Gaming Enthusiast  
+- 🕌 Passionate about Islamic History & Teachings  
+- 🌌 Interested in Paranormal Studies & Islamic Mysticism  
+- 📜 Analyze & Research Historical, Paranormal & Crime Case Studies  
+>>>>>>> 38fba55d4d47a15aea7c312922632f8dbc2ec0c8
 
 
 ---

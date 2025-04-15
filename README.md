@@ -47,8 +47,9 @@
 ## 🛠️ My Ultimate Tech Arsenal:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,python,java,php,laravel,nodejs,express,cs,dotnet,tailwind,bootstrap,html,css,javascript,ts,sql,mysql,mongodb,postgres,git,github,vite,docker,aws,azure,netlify,vercel,figma,postman" alt="Tech Stack" width="900">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,python,java,php,laravel,nodejs,express,cs,dotnet,tailwind,bootstrap,html,css,javascript,typescript,mysql,mongodb,postgres,git,github,vite,docker,aws,azure,netlify,vercel,figma,postman" alt="Tech Stack" width="900">
 </p>
+
 
 
 ## 📊 GitHub Stats:

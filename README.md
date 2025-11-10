@@ -28,6 +28,10 @@
 
 - 🌍 From Karachi, Pakistan | Crafting Modern Web & AI Solutions  
 - 💻 Full-Stack Developer | 🚀 MERN & MEAN Stack | 🎯 AI & Data Enthusiast  
+- 🏢 <a href="https://your-nexovate-link.com" target="_blank">
+    <strong>CEO at NexoVate Digital</strong>
+    <img src="website-icon.png" width="18" height="18" style="margin-left:6px; vertical-align:middle;" alt="NexoVate Icon" />
+  </a>   
 - 🏆 Passionate Coder & Problem Solver | 💼 Freelancer | 🇵🇰  
 - 🛠️ Building Scalable & Interactive Web Apps | 💡 Always Learning  
 

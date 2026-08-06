@@ -120,6 +120,41 @@
   <strong>Commercial Software Platform & Digital Architecture</strong><br>
   Flagship corporate platform delivering state-of-the-art cloud solutions, custom reactive web applications, and digital transformation consulting.
 </p>
+
+<!-- Looping Dummy Transition Preview GIF -->
+<!-- 💡 NOTE FOR AFFAN: Replace the src below with your own animated .gif file containing a looping slideshow of your actual project screenshots! -->
+<p align="center">
+  <a href="https://nexovate-digital.vercel.app/" target="_blank">
+    <img src="https://media.giphy.com/media/xT9IgzoEkODbHQzHqM/giphy.gif" width="660" alt="NexoVate Digital Multi-View Loop Transition" />
+  </a>
+</p>
+<p align="center">
+  <sup>🔄 <em>Interactive Prototype Slideshow Loop • Displaying Multi-Screen Cloud UI Transitions</em></sup>
+</p>
+
+<!-- Expandable Multi-Image Screenshot Gallery -->
+<details align="center">
+  <summary><b>📸 Expand Multi-Image Prototype & Gallery Grid (Click to view sample screenshots)</b></summary>
+  <br>
+  <p align="center">
+    <i>Dummy multi-image showcase grid — replace these placeholder screenshots with your real project interface snapshots!</i>
+  </p>
+  <table align="center" width="90%">
+    <tr>
+      <td align="center" width="50%">
+        <strong>Screen 01: Executive Cloud Portal</strong><br><br>
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=500&q=80" width="100%" alt="View 1" />
+      </td>
+      <td align="center" width="50%">
+        <strong>Screen 02: Real-time Telemetry Dashboard</strong><br><br>
+        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=500&q=80" width="100%" alt="View 2" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00C9FF" />
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -143,6 +178,40 @@
   <strong>Autonomous Machine Learning & Forecasting Architecture</strong><br>
   Engineered predictive analytics models and generative AI operational pipelines designed to automate business intelligence and real-time decision support systems.
 </p>
+
+<!-- Looping Dummy Transition Preview GIF -->
+<p align="center">
+  <a href="https://github.com/Muhammadd-01" target="_blank">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="660" alt="AI Neural Network Looping Transition" />
+  </a>
+</p>
+<p align="center">
+  <sup>🔄 <em>Neural Network Execution Loop • Automated Data Node & Model Training Transition</em></sup>
+</p>
+
+<!-- Expandable Multi-Image Screenshot Gallery -->
+<details align="center">
+  <summary><b>📸 Expand AI Architecture & Inference Gallery Grid (Click to view sample screenshots)</b></summary>
+  <br>
+  <p align="center">
+    <i>Dummy multi-image showcase grid — replace these placeholder screenshots with your AI training matrices & charts!</i>
+  </p>
+  <table align="center" width="90%">
+    <tr>
+      <td align="center" width="50%">
+        <strong>Model 01: Deep Learning Tensor Topology</strong><br><br>
+        <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=500&q=80" width="100%" alt="AI View 1" />
+      </td>
+      <td align="center" width="50%">
+        <strong>Model 02: Real-time NLP Inference Pipeline</strong><br><br>
+        <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=500&q=80" width="100%" alt="AI View 2" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
@@ -165,6 +234,40 @@
   <strong>Distributed Microservices Backend System</strong><br>
   Decoupled, event-driven enterprise backend system utilizing strict type safety, real-time WebSocket communication, and multi-tenant database partitioning.
 </p>
+
+<!-- Looping Dummy Transition Preview GIF -->
+<p align="center">
+  <a href="https://github.com/Muhammadd-01" target="_blank">
+    <img src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" width="660" alt="Server Cluster & Throughput Looping Transition" />
+  </a>
+</p>
+<p align="center">
+  <sup>🔄 <em>Microservices Telemetry Loop • Live API Throughput & Distributed Node Transition</em></sup>
+</p>
+
+<!-- Expandable Multi-Image Screenshot Gallery -->
+<details align="center">
+  <summary><b>📸 Expand Backend Topology & Gateway Specs Grid (Click to view sample screenshots)</b></summary>
+  <br>
+  <p align="center">
+    <i>Dummy multi-image showcase grid — replace these placeholder screenshots with your cloud server diagrams & monitoring views!</i>
+  </p>
+  <table align="center" width="90%">
+    <tr>
+      <td align="center" width="50%">
+        <strong>Node 01: API Gateway Throughput Monitor</strong><br><br>
+        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=500&q=80" width="100%" alt="Gateway View 1" />
+      </td>
+      <td align="center" width="50%">
+        <strong>Node 02: Redis Cluster & PostgreSQL Partitioning</strong><br><br>
+        <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=500&q=80" width="100%" alt="Gateway View 2" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" />
@@ -187,6 +290,40 @@
   <strong>Offensive Security & OWASP Audit Pipeline</strong><br>
   Automated defensive reconnaissance and security auditing toolkit engineered to harden enterprise web platforms against modern injection and exploitation threats.
 </p>
+
+<!-- Looping Dummy Transition Preview GIF -->
+<p align="center">
+  <a href="https://github.com/Muhammadd-01" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh0ODExZzB1Y2g5c3Y2MGQxbjhxaXZmYjdzOWpudXNoY3ExMHczbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="660" alt="Cybersecurity Radar Scan Looping Transition" />
+  </a>
+</p>
+<p align="center">
+  <sup>🔄 <em>Defensive Security Audit Loop • Continuous Vulnerability Scanning & Zero-Trust Radar Transition</em></sup>
+</p>
+
+<!-- Expandable Multi-Image Screenshot Gallery -->
+<details align="center">
+  <summary><b>📸 Expand Security Audit & Reconnaissance Gallery Grid (Click to view sample screenshots)</b></summary>
+  <br>
+  <p align="center">
+    <i>Dummy multi-image showcase grid — replace these placeholder screenshots with your security scanning terminal reports!</i>
+  </p>
+  <table align="center" width="90%">
+    <tr>
+      <td align="center" width="50%">
+        <strong>Scan 01: OWASP Injection & XSS Detection Radar</strong><br><br>
+        <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=500&q=80" width="100%" alt="Cyber View 1" />
+      </td>
+      <td align="center" width="50%">
+        <strong>Scan 02: Zero-Trust Firewall Hardening Protocol</strong><br><br>
+        <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=500&q=80" width="100%" alt="Cyber View 2" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />

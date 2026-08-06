@@ -1,3 +1,8 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔷  MUHAMMAD AFFAN — ENTERPRISE GITHUB PROFILE README                   -->
+<!-- 🔷  All visual effects use SVG image APIs — no inline CSS (GitHub strips it) -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <!-- Ambient Twinkling Cosmic Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0052D4,100:00C9FF&height=240&section=header&text=MUHAMMAD%20AFFAN&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Founder%20%26%20CEO%20@%20NexoVate%20Digital%20%E2%80%A2%20Enterprise%20Full-Stack%20%26%20AI%20Architect&descAlign=50&descAlignY=70&descSize=16" alt="Muhammad Affan Enterprise Banner">
@@ -48,9 +53,14 @@
 
 <br>
 
-<!-- Curved Glowing Banner: NexoVate Digital Leadership -->
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  NEXOVATE DIGITAL & COMMERCIAL LEADERSHIP — CURVED FRAME    ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=65&color=0:001122,50:0052D4,100:00C9FF&text=%F0%9F%8F%A2%20NexoVate%20Digital%20%26%20Commercial%20Leadership&fontSize=22&fontColor=ffffff&fontAlign=50" width="90%" alt="NexoVate Digital Leadership">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=8&section=header" width="88%" alt="">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=%F0%9F%8F%A2%20NexoVate%20Digital%20%26%20Commercial%20Leadership&fontSize=24&fontColor=00E5FF&fontAlign=50&animation=fadeIn" width="88%" alt="NexoVate Digital Leadership">
 </p>
 
 <p align="center">
@@ -67,14 +77,22 @@
 </p>
 
 <p align="center">
-  <sup><img src="website-icon.png" width="18" height="18" style="vertical-align:middle;" alt="NexoVate Icon" /> <strong>NexoVate Digital • Engineering High-Impact Technology</strong></sup>
+  <sup><img src="website-icon.png" width="18" height="18" alt="NexoVate Icon" /> <strong>NexoVate Digital • Engineering High-Impact Technology</strong></sup>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=8&section=footer" width="88%" alt="">
 </p>
 
 <br>
 
-<!-- Curved Glowing Banner: Enterprise Capabilities -->
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  ENTERPRISE CAPABILITIES & ARCHITECTURE — CURVED FRAME      ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=65&color=0:00C9FF,50:0052D4,100:001122&text=%F0%9F%8E%AF%20Enterprise%20Capabilities%20%26%20Architecture&fontSize=22&fontColor=ffffff&fontAlign=50" width="90%" alt="Enterprise Capabilities">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:0052D4&height=8&section=header" width="88%" alt="">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=%F0%9F%8E%AF%20Enterprise%20Capabilities%20%26%20Architecture&fontSize=24&fontColor=00C9FF&fontAlign=50&animation=fadeIn" width="88%" alt="Enterprise Capabilities">
 </p>
 
 <p align="center">
@@ -83,6 +101,9 @@
   🔸 <code>Full-Stack Mastery</code> : End-to-end fluency across MERN, MEAN, Python, and .NET corporate frameworks.<br>
   🔸 <code>AI & Data Systems</code> : Deploying predictive modeling, LLM workflows, and intelligent business logic.<br>
   🔸 <code>Defensive Cyber Operations</code> : Strict OWASP compliance, zero-trust mindset, and rigorous web security hardening.
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:00C9FF&height=8&section=footer" width="88%" alt="">
 </p>
 
 <br>
@@ -101,7 +122,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
 </p>
 
-<!-- Featured Commercial & Open-Source Projects Showcase -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!--  FEATURED ENTERPRISE & COMMERCIAL PROJECTS                         -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:001122,50:0052D4,100:00C9FF&text=%F0%9F%9A%80%20Featured%20Enterprise%20%26%20Commercial%20Projects&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Featured Projects Header">
 </p>
@@ -112,7 +135,12 @@
 
 <br>
 
-<!-- Project 1: NexoVate Digital Ecosystem -->
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  PROJECT 1: NexoVate Digital Ecosystem — CURVED NEON FRAME  ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=8&section=header" width="82%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&color=0:001122,100:0052D4&text=%F0%9F%8F%A2%20NexoVate%20Digital%20Ecosystem&fontSize=19&fontColor=00E5FF&fontAlign=50" width="75%" alt="NexoVate Digital Project">
 </p>
@@ -122,7 +150,7 @@
 </p>
 
 <!-- Looping Dummy Transition Preview GIF -->
-<!-- 💡 NOTE FOR AFFAN: Replace the src below with your own animated .gif file containing a looping slideshow of your actual project screenshots! -->
+<!-- 💡 NOTE: Replace src with your own animated .gif of real project screenshots! -->
 <p align="center">
   <a href="https://nexovate-digital.vercel.app/" target="_blank">
     <img src="https://media.giphy.com/media/xT9IgzoEkODbHQzHqM/giphy.gif" width="660" alt="NexoVate Digital Multi-View Loop Transition" />
@@ -133,24 +161,19 @@
 </p>
 
 <!-- Expandable Multi-Image Screenshot Gallery -->
-<details align="center">
+<details>
   <summary><b>📸 Expand Multi-Image Prototype & Gallery Grid (Click to view sample screenshots)</b></summary>
   <br>
   <p align="center">
-    <i>Dummy multi-image showcase grid — replace these placeholder screenshots with your real project interface snapshots!</i>
+    <em>Dummy multi-image showcase — replace these placeholder screenshots with your real project interface snapshots!</em>
   </p>
-  <table align="center" width="90%">
-    <tr>
-      <td align="center" width="50%">
-        <strong>Screen 01: Executive Cloud Portal</strong><br><br>
-        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=500&q=80" width="100%" alt="View 1" />
-      </td>
-      <td align="center" width="50%">
-        <strong>Screen 02: Real-time Telemetry Dashboard</strong><br><br>
-        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=500&q=80" width="100%" alt="View 2" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <strong>Screen 01: Executive Cloud Portal</strong><br><br>
+    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80" width="46%" alt="View 1" />
+    &nbsp;&nbsp;
+    <strong>Screen 02: Real-time Telemetry Dashboard</strong><br><br>
+    <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80" width="46%" alt="View 2" />
+  </p>
 </details>
 
 <br>
@@ -167,10 +190,18 @@
     <img src="https://img.shields.io/badge/EXPLORE_LIVE_PORTAL_%E2%86%97-0052D4?style=for-the-badge&color=00C9FF&labelColor=080B10" alt="Live Portal" />
   </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=8&section=footer" width="82%" alt="">
+</p>
 
 <br>
 
-<!-- Project 2: AI Predictive Inference Engine -->
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  PROJECT 2: AI Predictive Inference Engine — CURVED FRAME   ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00C9FF&height=8&section=header" width="82%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&color=0:001122,100:0052D4&text=%F0%9F%A4%96%20AI%20Predictive%20Inference%20Engine&fontSize=19&fontColor=00C9FF&fontAlign=50" width="75%" alt="AI Inference Engine">
 </p>
@@ -190,24 +221,17 @@
 </p>
 
 <!-- Expandable Multi-Image Screenshot Gallery -->
-<details align="center">
-  <summary><b>📸 Expand AI Architecture & Inference Gallery Grid (Click to view sample screenshots)</b></summary>
+<details>
+  <summary><b>📸 Expand AI Architecture & Inference Gallery (Click to view sample screenshots)</b></summary>
   <br>
   <p align="center">
-    <i>Dummy multi-image showcase grid — replace these placeholder screenshots with your AI training matrices & charts!</i>
+    <em>Dummy multi-image showcase — replace with your AI training matrices & charts!</em>
   </p>
-  <table align="center" width="90%">
-    <tr>
-      <td align="center" width="50%">
-        <strong>Model 01: Deep Learning Tensor Topology</strong><br><br>
-        <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=500&q=80" width="100%" alt="AI View 1" />
-      </td>
-      <td align="center" width="50%">
-        <strong>Model 02: Real-time NLP Inference Pipeline</strong><br><br>
-        <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=500&q=80" width="100%" alt="AI View 2" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80" width="46%" alt="AI View 1" />
+    &nbsp;&nbsp;
+    <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=600&q=80" width="46%" alt="AI View 2" />
+  </p>
 </details>
 
 <br>
@@ -223,10 +247,18 @@
     <img src="https://img.shields.io/badge/VIEW_AI_ARCHITECTURE_%F0%9F%A7%A0-0052D4?style=for-the-badge&color=00E5FF&labelColor=080B10" alt="AI Architecture" />
   </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:001122&height=8&section=footer" width="82%" alt="">
+</p>
 
 <br>
 
-<!-- Project 3: High-Concurrency API Gateway & Cloud Platform -->
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  PROJECT 3: High-Concurrency API Gateway — CURVED FRAME     ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:38BDF8&height=8&section=header" width="82%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&color=0:001122,100:0052D4&text=%E2%9A%A1%20High-Concurrency%20API%20Gateway%20%26%20Cloud%20Platform&fontSize=19&fontColor=38BDF8&fontAlign=50" width="75%" alt="API Gateway Project">
 </p>
@@ -246,24 +278,17 @@
 </p>
 
 <!-- Expandable Multi-Image Screenshot Gallery -->
-<details align="center">
-  <summary><b>📸 Expand Backend Topology & Gateway Specs Grid (Click to view sample screenshots)</b></summary>
+<details>
+  <summary><b>📸 Expand Backend Topology & Gateway Gallery (Click to view sample screenshots)</b></summary>
   <br>
   <p align="center">
-    <i>Dummy multi-image showcase grid — replace these placeholder screenshots with your cloud server diagrams & monitoring views!</i>
+    <em>Dummy multi-image showcase — replace with your cloud server diagrams & monitoring views!</em>
   </p>
-  <table align="center" width="90%">
-    <tr>
-      <td align="center" width="50%">
-        <strong>Node 01: API Gateway Throughput Monitor</strong><br><br>
-        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=500&q=80" width="100%" alt="Gateway View 1" />
-      </td>
-      <td align="center" width="50%">
-        <strong>Node 02: Redis Cluster & PostgreSQL Partitioning</strong><br><br>
-        <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=500&q=80" width="100%" alt="Gateway View 2" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=600&q=80" width="46%" alt="Gateway View 1" />
+    &nbsp;&nbsp;
+    <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80" width="46%" alt="Gateway View 2" />
+  </p>
 </details>
 
 <br>
@@ -279,10 +304,18 @@
     <img src="https://img.shields.io/badge/INSPECT_SYSTEM_SPECS_%E2%9A%99%EF%B8%8F-0052D4?style=for-the-badge&color=38BDF8&labelColor=080B10" alt="System Specs" />
   </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:001122&height=8&section=footer" width="82%" alt="">
+</p>
 
 <br>
 
-<!-- Project 4: Cyber Vulnerability Suite -->
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  PROJECT 4: Cyber Vulnerability Suite — CURVED FRAME        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00E5FF&height=8&section=header" width="82%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&color=0:001122,100:0052D4&text=%F0%9F%9B%A1%EF%B8%8F%20Cyber%20Vulnerability%20%26%20Defensive%20Hardening%20Suite&fontSize=19&fontColor=00E5FF&fontAlign=50" width="75%" alt="Cyber Vulnerability Suite">
 </p>
@@ -302,24 +335,17 @@
 </p>
 
 <!-- Expandable Multi-Image Screenshot Gallery -->
-<details align="center">
-  <summary><b>📸 Expand Security Audit & Reconnaissance Gallery Grid (Click to view sample screenshots)</b></summary>
+<details>
+  <summary><b>📸 Expand Security Audit & Reconnaissance Gallery (Click to view sample screenshots)</b></summary>
   <br>
   <p align="center">
-    <i>Dummy multi-image showcase grid — replace these placeholder screenshots with your security scanning terminal reports!</i>
+    <em>Dummy multi-image showcase — replace with your security scanning terminal reports!</em>
   </p>
-  <table align="center" width="90%">
-    <tr>
-      <td align="center" width="50%">
-        <strong>Scan 01: OWASP Injection & XSS Detection Radar</strong><br><br>
-        <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=500&q=80" width="100%" alt="Cyber View 1" />
-      </td>
-      <td align="center" width="50%">
-        <strong>Scan 02: Zero-Trust Firewall Hardening Protocol</strong><br><br>
-        <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=500&q=80" width="100%" alt="Cyber View 2" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=600&q=80" width="46%" alt="Cyber View 1" />
+    &nbsp;&nbsp;
+    <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=600&q=80" width="46%" alt="Cyber View 2" />
+  </p>
 </details>
 
 <br>
@@ -335,13 +361,18 @@
     <img src="https://img.shields.io/badge/EXACT_DEFENSIVE_TOOLING_%F0%9F%9B%A1%EF%B8%8F-0052D4?style=for-the-badge&color=00C9FF&labelColor=080B10" alt="Defensive Tooling" />
   </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5FF,100:001122&height=8&section=footer" width="82%" alt="">
+</p>
 
 <!-- Animated Neon Wave Transition -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
 </p>
 
-<!-- Professional Certifications, Licenses & Technical Honors -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!--  PROFESSIONAL CERTIFICATIONS & CREDENTIALS                         -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:00C9FF,50:0052D4,100:001122&text=%F0%9F%93%9C%20Professional%20Certifications%20%26%20Credentials&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Certifications Header">
 </p>
@@ -352,30 +383,58 @@
 
 <br>
 
+<!-- Cert 1 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:003366&height=6&section=header" width="72%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%F0%9F%8E%93%20Full-Stack%20Systems%20Architect%20%E2%80%A2%20MERN%20%26%20MEAN%20Mastery&fontSize=16&fontColor=00C9FF&fontAlign=50" width="68%" alt="Full-Stack Cert"><br>
   <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=00C9FF" alt="Verified Credential">
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:001122&height=6&section=footer" width="72%" alt="">
+</p>
 
 <br>
 
+<!-- Cert 2 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:003366&height=6&section=header" width="72%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%F0%9F%A4%96%20Artificial%20Intelligence%20Specialist%20%E2%80%A2%20Deep%20Learning%20%26%20LLMs&fontSize=16&fontColor=00E5FF&fontAlign=50" width="68%" alt="AI Specialist Cert"><br>
   <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=00E5FF" alt="Verified Credential">
 </p>
-
-<br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity%20%26%20Defensive%20Engineer%20%E2%80%A2%20OWASP%20Audit&fontSize=16&fontColor=38BDF8&fontAlign=50" width="68%" alt="Cybersecurity Cert"><br>
-  <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=38BDF8" alt="Verified Credential">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:001122&height=6&section=footer" width="72%" alt="">
 </p>
 
 <br>
 
+<!-- Cert 3 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:003366&height=6&section=header" width="72%" alt="">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity%20%26%20Defensive%20Engineer%20%E2%80%A2%20OWASP%20Audit&fontSize=16&fontColor=38BDF8&fontAlign=50" width="68%" alt="Cybersecurity Cert"><br>
+  <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=38BDF8" alt="Verified Credential">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:001122&height=6&section=footer" width="72%" alt="">
+</p>
+
+<br>
+
+<!-- Cert 4 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:003366&height=6&section=header" width="72%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%E2%98%81%EF%B8%8F%20Cloud%20DevOps%20%26%20Container%20Architect%20%E2%80%A2%20Docker%20%26%20AWS&fontSize=16&fontColor=00C9FF&fontAlign=50" width="68%" alt="Cloud DevOps Cert"><br>
   <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=00C9FF" alt="Verified Credential">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:001122&height=6&section=footer" width="72%" alt="">
 </p>
 
 <!-- Animated Neon Wave Transition -->
@@ -383,7 +442,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
 </p>
 
-<!-- Enterprise Tech Stack & Infrastructure Arsenal -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!--  INDUSTRIAL TECHNOLOGY & ARCHITECTURE ARSENAL                       -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:001122,50:0052D4,100:38BDF8&text=%F0%9F%8F%9B%EF%B8%8F%20Industrial%20Technology%20%26%20Architecture%20Arsenal&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Tech Stack Header">
 </p>
@@ -394,23 +455,44 @@
 
 <br>
 
+<!-- Frontend Curved Frame -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=6&section=header" width="78%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=45&color=0:001122,100:0052D4&text=%F0%9F%8C%90%20Frontend%20Systems%20%26%20Responsive%20Design%20Architecture&fontSize=16&fontColor=00C9FF&fontAlign=50" width="72%" alt="Frontend Header"><br><br>
   <img src="https://skillicons.dev/icons?i=react,angular,vue,typescript,javascript,html,css,tailwind,bootstrap,vite,figma" alt="Frontend Tech Stack" />
 </p>
-
-<br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=45&color=0:001122,100:0052D4&text=%E2%9A%99%EF%B8%8F%20Backend%20Engineering%2C%20Microservices%20%26%20Data%20APIs&fontSize=16&fontColor=00E5FF&fontAlign=50" width="72%" alt="Backend Header"><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,laravel,cs,dotnet" alt="Backend Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=6&section=footer" width="78%" alt="">
 </p>
 
 <br>
 
+<!-- Backend Curved Frame -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00C9FF&height=6&section=header" width="78%" alt="">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=45&color=0:001122,100:0052D4&text=%E2%9A%99%EF%B8%8F%20Backend%20Engineering%2C%20Microservices%20%26%20Data%20APIs&fontSize=16&fontColor=00E5FF&fontAlign=50" width="72%" alt="Backend Header"><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,laravel,cs,dotnet" alt="Backend Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:001122&height=6&section=footer" width="78%" alt="">
+</p>
+
+<br>
+
+<!-- Database & Cloud Curved Frame -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:38BDF8&height=6&section=header" width="78%" alt="">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=45&color=0:001122,100:0052D4&text=%F0%9F%97%84%EF%B8%8F%20Database%20Architecture%20%26%20Cloud%20DevOps%20Infrastructure&fontSize=16&fontColor=38BDF8&fontAlign=50" width="72%" alt="Database Header"><br><br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,aws,azure,vercel,netlify,postman" alt="Database & Cloud DevOps Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:001122&height=6&section=footer" width="78%" alt="">
 </p>
 
 <!-- Animated Neon Wave Transition -->
@@ -418,7 +500,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
 </p>
 
-<!-- Analytics & Performance Metrics (Using Native SVG border_radius=24 & Glowing Border Color 00C9FF) -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!--  ENGINEERING VELOCITY & TELEMETRY — CURVED SVG STAT CARDS           -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:38BDF8,50:0052D4,100:001122&text=%F0%9F%93%8A%20Enterprise%20Engineering%20Velocity%20%26%20Telemetry&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Telemetry Header">
 </p>
@@ -429,7 +513,7 @@
 
 <br>
 
-<!-- Streak and General Stats (Curved SVG Borders) -->
+<!-- Streak and General Stats (border_radius=24 & border_color=00C9FF baked into the SVG) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadd-01&theme=tokyonight&background=0B0E14&ring=00C9FF&fire=00E5FF&currStreakNum=ffffff&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=9DDCFF&dates=9DDCFF&border=00C9FF&border_radius=24" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammadd-01&show_icons=true&bg_color=0B0E14&title_color=00C9FF&text_color=E6EDF3&icon_color=00E5FF&border_color=00C9FF&border_radius=24&count_private=true" alt="GitHub Stats" width="48%" />
@@ -437,15 +521,15 @@
 
 <br>
 
-<!-- Language Breakdown & Contribution Habits (Curved SVG Borders) -->
+<!-- Language Breakdown (border_radius=24 & border_color baked into SVG) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadd-01&theme=tokyonight&border_radius=24" alt="Repos Per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadd-01&theme=tokyonight" alt="Repos Per Language" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadd-01&bg_color=0B0E14&title_color=00C9FF&text_color=E6EDF3&layout=compact&border_color=00E5FF&border_radius=24" alt="Top Languages" width="48%" />
 </p>
 
 <br>
 
-<!-- Activity Graph (Curved Radius 20 in SVG) -->
+<!-- Activity Graph (radius=20 baked into SVG) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadd-01&bg_color=0B0E14&color=00C9FF&line=00E5FF&point=ffffff&area_color=002244&area=true&radius=20" alt="Contribution Activity Graph" width="96%" />
 </p>
@@ -455,7 +539,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
 </p>
 
-<!-- Interactive Contribution Matrix -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!--  AUTONOMOUS CONTRIBUTION ENGINE — SNAKE                             -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:001122,50:0052D4,100:00E5FF&text=%F0%9F%90%8D%20Autonomous%20Contribution%20Engine&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Contribution Engine Header">
 </p>
@@ -464,33 +550,55 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=6&section=header" width="96%" alt="">
+</p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" width="94%" />
   </picture>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=6&section=footer" width="96%" alt="">
+</p>
 
 <!-- Animated Neon Wave Transition -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
 </p>
 
-<!-- Consolidated Achievements & Top Repos -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!--  INDUSTRY BENCHMARKS & REPOSITORY PORTFOLIO                         -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:00E5FF,50:0052D4,100:001122&text=%F0%9F%8F%86%20Industry%20Benchmarks%20%26%20Repository%20Portfolio&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Trophies Header">
 </p>
 
 <br>
 
+<!-- Trophies Curved Frame -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:38BDF8&height=6&section=header" width="92%" alt="">
+</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammadd-01&theme=tokyo-night&no-frame=false&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:001122&height=6&section=footer" width="92%" alt="">
 </p>
 
 <br>
 
+<!-- Top Repos Curved Frame -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00E5FF&height=6&section=header" width="88%" alt="">
+</p>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Muhammadd-01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="85%" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5FF,100:001122&height=6&section=footer" width="88%" alt="">
 </p>
 
 <!-- Animated Neon Wave Transition -->
@@ -498,9 +606,17 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
 </p>
 
-<!-- Professional Dimension & Daily Quote -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!--  ENGINEERING PHILOSOPHY & DEV WISDOM                                 -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:001122,50:0052D4,100:00C9FF&text=%F0%9F%9A%80%20Engineering%20Philosophy%20%26%20Dev%20Wisdom&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Philosophy Header">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=6&section=header" width="88%" alt="">
 </p>
 
 <p align="center">
@@ -512,12 +628,23 @@
   🔹 <code>Strategic Mindset</code> : Tactical gaming and continuous technological exploration.
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=6&section=footer" width="88%" alt="">
+</p>
+
 <br>
 
+<!-- Dev Quote Curved Frame -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00C9FF&height=6&section=header" width="88%" alt="">
+</p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="85%" />
 </p>
 <p align="center"><em>"Quality architecture is not an act, it is a continuous habit."</em></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:001122&height=6&section=footer" width="88%" alt="">
+</p>
 
 <br>
 

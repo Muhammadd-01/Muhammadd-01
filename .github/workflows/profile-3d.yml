@@ -1,0 +1,31 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    # 22:00 UTC = 03:00 in Karachi
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "profile-3d-contrib/**"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A profile-3d-contrib
+          git commit -m "Update 3D contribution calendar [skip ci]" || exit 0
+          git push

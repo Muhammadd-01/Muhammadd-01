@@ -18,10 +18,12 @@
   <a href="https://github.com/Muhammadd-01?tab=followers"><img src="https://img.shields.io/github/followers/Muhammadd-01?label=Followers&style=for-the-badge&logo=github&color=00C9FF&labelColor=0D1117" alt="GitHub followers"></a>
   <img src="https://komarev.com/ghpvc/?username=Muhammadd-01&label=Profile%20Views&style=for-the-badge&color=0052D4&labelColor=0D1117" alt="Profile views">
   <a href="https://github.com/Muhammadd-01?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-100%2B-38BDF8?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="100+ public repositories"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collabs-10B981?style=for-the-badge&labelColor=0D1117" alt="Open to freelance and collaborations">
+  <a href="#work-with-me"><img src="https://img.shields.io/badge/Available%20for-Hire%20%C2%B7%20Freelance%20%C2%B7%20Collabs-10B981?style=for-the-badge&labelColor=0D1117" alt="Available for hire, freelance and collaborations"></a>
 </p>
 
 <p align="center">
+  <a href="https://affann-portfolio.vercel.app/AffanResume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9%20(PDF)-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download résumé (PDF)"></a>
+  <a href="https://wa.me/923128538773"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"></a>
   <a href="https://affann-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00C9FF" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/muhammad-affan-8ab604280"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
   <a href="mailto:affan.work05@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
@@ -36,11 +38,20 @@
 
 I'm **Muhammad Affan**, a full-stack developer, UI/UX enthusiast and the **Founder & CEO of [NexoVate Digital](https://nexovate-digital.vercel.app/)**, based in **Karachi, Pakistan 🇵🇰**. I build complete products end to end: web apps with **React, Next.js and Node**, cross-platform mobile apps with **Flutter**, and **Python + FastAPI** services that put machine learning behind a clean, fast interface.
 
-I care about the details users feel: **clean UI, smooth motion, solid performance and scalable architecture**. Alongside client work I'm a **Teacher Assistant at Aptech**, helping students with programming logic, debugging and real-world projects, and I'm completing my **Advanced Diploma in Software Engineering (ADSE)**.
+I care about the details users feel: **clean UI, smooth motion, solid performance and scalable architecture**. In early 2026 I worked as a **Junior Mobile Developer (Flutter) in DAMAC Hills, Dubai**. Alongside client work I'm a **Teacher Assistant at Aptech**, helping students with programming logic, debugging and real-world projects, and I'm completing my **Advanced Diploma in Software Engineering (ADSE)**.
 
-| 💼 Role | 🧑‍🏫 Also | 🎓 Studying | 🗣️ Languages | 📦 On GitHub |
-|:---:|:---:|:---:|:---:|:---:|
-| Founder & CEO,<br>NexoVate Digital | Teacher Assistant,<br>Aptech (2024 →) | ADSE, Software<br>Engineering | Urdu (native),<br>English (fluent) | 100+ public repos<br>since May 2024 |
+<table>
+  <tr>
+    <td align="center" width="33%">💼 <b>Role</b><br>Founder &amp; CEO,<br>NexoVate Digital</td>
+    <td align="center" width="33%">📱 <b>Industry experience</b><br>Junior Flutter Developer,<br>DAMAC Hills, Dubai (2026)</td>
+    <td align="center" width="33%">🧑‍🏫 <b>Teaching</b><br>Teacher Assistant,<br>Aptech (2024 →)</td>
+  </tr>
+  <tr>
+    <td align="center">🎓 <b>Studying</b><br>ADSE, Software Engineering<br>@ Aptech</td>
+    <td align="center">🗣️ <b>Languages</b><br>Urdu (native),<br>English (fluent)</td>
+    <td align="center">📦 <b>On GitHub</b><br>100+ public repos,<br>5,000+ contributions in a year</td>
+  </tr>
+</table>
 
 ```ts
 const affan = {
@@ -56,7 +67,32 @@ const affan = {
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="34" alt=""> My Journey</h2>
 
 <p align="center">
-  <img src="assets/journey.svg" width="100%" alt="Timeline: 2020-21 Matric at MJM School; 2021-23 Intermediate Pre-Engineering at Superior Govt. College; 2023 started ADSE at Aptech; April 2024 Teacher Assistant at Aptech Metro Star Gate; 2024 web foundations with React, Laravel and ASP.NET Core; 2025 Angular, TypeScript and Flutter; 2025-26 NexoVate Digital; 2026 AI, data and games.">
+  <img src="assets/journey.svg" width="100%" alt="Timeline: 2020-21 Matric at MJM School; 2021-23 Intermediate Pre-Engineering at Superior Govt. College; 2023 started ADSE at Aptech; April 2024 Teacher Assistant at Aptech Metro Star Gate; 2024 web foundations with React, Laravel and ASP.NET Core; 2025 Angular, TypeScript and Flutter; 2025-26 NexoVate Digital; January to March 2026 Junior Flutter Developer in DAMAC Hills, Dubai; 2026 AI, data and games.">
+</p>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="34" alt=""> Experience</h2>
+
+<table>
+  <tr>
+    <td width="26%" valign="top"><b>Founder &amp; CEO</b><br><sub>2025 – Present</sub></td>
+    <td valign="top"><b><a href="https://nexovate-digital.vercel.app/">NexoVate Digital</a></b> · Karachi, Pakistan<br>Lead design and development of client websites, web apps, CRMs, Flutter apps and AI tools, from discovery and UI/UX through deployment on Vercel.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Junior Mobile Developer (Flutter)</b><br><sub>Jan 2026 – Mar 2026</sub></td>
+    <td valign="top"><b>DAMAC Hills</b> · Dubai, UAE<br>Built cross-platform mobile app features with Flutter and Dart.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Teacher Assistant</b><br><sub>Apr 2024 – Present</sub></td>
+    <td valign="top"><b>Aptech Metro Star Gate</b> · Karachi, Pakistan<br>Help students with programming concepts, logic building and debugging; run practical lab sessions; guide web &amp; software projects; evaluate assignments.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🎓 Education</b></td>
+    <td valign="top"><b>ADSE</b>, Advanced Diploma in Software Engineering · Aptech · 2023 – Present<br><b>HSC</b>, Pre-Engineering · Superior Government College · 2021 – 2023<br><b>SSC</b>, Science · MJM School · 2020 – 2021</td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://affann-portfolio.vercel.app/AffanResume.pdf"><img src="https://img.shields.io/badge/Download%20full%20r%C3%A9sum%C3%A9-0052D4?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download full résumé (PDF)"></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -219,6 +255,75 @@ const affan = {
   </tr>
 </table>
 
+<h3>🤝 Client Websites</h3>
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://sir-solomon-website.vercel.app"><img src="assets/projects/sirsolomon.jpg" width="100%" alt="Sir Solomon's School & College website"></a><br>
+      <b>Sir Solomon's School</b><br><sub>School &amp; college website</sub><br>
+      <a href="https://sir-solomon-website.vercel.app">Live</a> · <a href="https://github.com/Muhammadd-01/Sir_Solomon_Website">Code</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://amna-portfolio-drab.vercel.app"><img src="assets/projects/amna.jpg" width="100%" alt="Amna Nehal developer portfolio"></a><br>
+      <b>Amna Nehal</b><br><sub>Developer portfolio</sub><br>
+      <a href="https://amna-portfolio-drab.vercel.app">Live</a> · <a href="https://github.com/Muhammadd-01/Amna-sPortfolio">Code</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://bilal-portfolio-gules.vercel.app"><img src="assets/projects/bilal.jpg" width="100%" alt="Bilal Khan designer portfolio"></a><br>
+      <b>Bilal Khan</b><br><sub>Vector-artist portfolio</sub><br>
+      <a href="https://bilal-portfolio-gules.vercel.app">Live</a> · <a href="https://github.com/Muhammadd-01/Bilal-Portfolio">Code</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://shehzad-portfolio-tau.vercel.app"><img src="assets/projects/shehzad.jpg" width="100%" alt="Shehzad bin Rehman portfolio"></a><br>
+      <b>Shehzad bin Rehman</b><br><sub>Creative-designer portfolio</sub><br>
+      <a href="https://shehzad-portfolio-tau.vercel.app">Live</a> · <a href="https://github.com/Muhammadd-01/Shehzad-Portfolio">Code</a>
+    </td>
+  </tr>
+</table>
+
+<h3>🧩 More Web Apps</h3>
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://automation-eight-alpha.vercel.app"><img src="assets/projects/automation.jpg" width="100%" alt="NexoVate client acquisition system"></a><br>
+      <b>NexoVate Outreach CRM</b><br><sub>Client-acquisition automation</sub><br>
+      <a href="https://automation-eight-alpha.vercel.app">Live</a> · <a href="https://github.com/Muhammadd-01/Automation">Code</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://dsl-task.vercel.app"><img src="assets/projects/securevault.jpg" width="100%" alt="SecureVault"></a><br>
+      <b>SecureVault</b><br><sub>Client-side zero-knowledge encrypted notes</sub><br>
+      <a href="https://dsl-task.vercel.app">Live</a> · <a href="https://github.com/Muhammadd-01/DSL_Task">Code</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://archieve-site.vercel.app"><img src="assets/projects/archive.jpg" width="100%" alt="Research Archive"></a><br>
+      <b>Research Archive</b><br><sub>Collect, tag &amp; search research</sub><br>
+      <a href="https://archieve-site.vercel.app">Live</a> · <a href="https://github.com/Muhammadd-01/archieveSite">Code</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://recipe-app-two-weld.vercel.app"><img src="assets/projects/recipe.jpg" width="100%" alt="Flavor Vault recipe app"></a><br>
+      <b>Flavor Vault</b><br><sub>Recipe discovery &amp; meal planner</sub><br>
+      <a href="https://recipe-app-two-weld.vercel.app">Live</a> · <a href="https://github.com/Muhammadd-01/Recipe_App">Code</a>
+    </td>
+  </tr>
+</table>
+
+<h3>🆕 Recently Updated Repositories</h3>
+
+<sub>Refreshed automatically every day by GitHub Actions.</sub>
+
+<!-- LATEST-REPOS:START -->
+| Project | Stack | Updated | Links |
+|---|---|---|---|
+| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 2 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
+| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 2 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
+| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 2 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
+| **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 3 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
+| **[Affan sPortolio](https://github.com/Muhammadd-01/Affan-sPortolio)** | TypeScript | 4 days ago | [Code](https://github.com/Muhammadd-01/Affan-sPortolio) · [Live](https://affann-portfolio.vercel.app) |
+| **[Nexus AI](https://github.com/Muhammadd-01/Nexus_AI)** | TypeScript | 9 days ago | [Code](https://github.com/Muhammadd-01/Nexus_AI) |
+<!-- LATEST-REPOS:END -->
+
 <details>
   <summary><b>📱 The "Sphere" Flutter app ecosystem and more (click to expand)</b></summary>
   <br>
@@ -285,6 +390,35 @@ Design isn't a coat of paint at the end. I start every project with the user's f
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<a name="work-with-me"></a>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="34" alt=""> Work With Me</h2>
+
+I'm available for **full-time roles** (Flutter / full-stack), **freelance projects** and **open-source collaboration**. Companies and founders can reach me directly through any of the buttons below.
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">🌐<br><b>Websites &amp; Web Apps</b><br><sub>React · Next.js · MERN<br>landing pages, SaaS, dashboards</sub></td>
+    <td width="25%" align="center" valign="top">📱<br><b>Mobile Apps</b><br><sub>Flutter · Firebase · Supabase<br>iOS &amp; Android from one codebase</sub></td>
+    <td width="25%" align="center" valign="top">🤖<br><b>AI &amp; Data Tools</b><br><sub>Python · FastAPI · scikit-learn<br>forecasting, chatbots, analytics</sub></td>
+    <td width="25%" align="center" valign="top">🎨<br><b>UI/UX Design</b><br><sub>Figma · design systems<br>motion &amp; responsive UI</sub></td>
+  </tr>
+</table>
+
+**How a project with me works**
+
+| 1. Discover | 2. Design | 3. Build | 4. Launch |
+|:---:|:---:|:---:|:---:|
+| A short call to understand your goals, users and timeline | Wireframes and a clickable Figma prototype you approve | Weekly demos on a live preview link | Deployment, handover docs and post-launch support |
+
+<p align="center">
+  <a href="mailto:affan.work05@gmail.com?subject=Project%20inquiry%20from%20GitHub"><img src="https://img.shields.io/badge/Start%20a%20project-0052D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email to start a project"></a>
+  <a href="https://wa.me/923128538773"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/muhammad-affan-8ab604280"><img src="https://img.shields.io/badge/Hire%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire me on LinkedIn"></a>
+  <a href="https://affann-portfolio.vercel.app/AffanResume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé (PDF)"></a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="34" alt=""> Tech Stack</h2>
 
 <table>
@@ -313,6 +447,10 @@ Design isn't a coat of paint at the end. I start every project with the user's f
 
 <p align="center">
   <img src="profile-3d-contrib/calendar-3d.svg" width="100%" alt="3D contribution calendar for the last 12 months (regenerated daily by GitHub Actions)">
+</p>
+
+<p align="center">
+  <img src="profile-3d-contrib/stats-3d.svg" width="100%" alt="3D radar of contribution types and 3D donut of public repositories by language (regenerated daily)">
 </p>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" alt=""> Contribution Snake</h3>

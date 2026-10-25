@@ -9,78 +9,87 @@
 <rect width="1200" height="480" rx="18" fill="url(#grid)"/>
 <rect x=".5" y=".5" width="1199" height="479" rx="18" fill="none" stroke="#38BDF8" stroke-opacity=".3"/>
 <line x1="40" y1="240" x2="1160" y2="240" stroke="url(#axis)" stroke-width="3" stroke-linecap="round"/>
-<line x1="140" y1="226" x2="140" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
-<rect x="20" y="58" width="240" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
-<rect x="20" y="58" width="240" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="9.0s" begin="0.80s" repeatCount="indefinite"/></rect>
-<text x="140" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2020 – 21</text>
-<text x="140" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Matric (SSC)</text>
-<text x="140" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >MJM School</text>
-<text x="140" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Science group</text>
-<circle cx="140" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
-<circle cx="140" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="0.80s;0.80s+9.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="0.80s" repeatCount="indefinite"/></circle>
-<line x1="271" y1="254" x2="271" y2="290" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
-<rect x="151" y="290" width="240" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
-<rect x="151" y="290" width="240" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="9.0s" begin="1.86s" repeatCount="indefinite"/></rect>
-<text x="271" y="322" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2021 – 23</text>
-<text x="271" y="350" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Intermediate (HSC)</text>
-<text x="271" y="376" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Pre-Engineering</text>
-<text x="271" y="396" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Superior Govt. College</text>
-<circle cx="271" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
-<circle cx="271" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="1.86s;1.86s+9.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="1.86s" repeatCount="indefinite"/></circle>
-<line x1="402" y1="226" x2="402" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
-<rect x="282" y="58" width="240" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
-<rect x="282" y="58" width="240" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="9.0s" begin="2.91s" repeatCount="indefinite"/></rect>
-<text x="402" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2023</text>
-<text x="402" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Started ADSE @ Aptech</text>
-<text x="402" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Advanced Diploma in</text>
-<text x="402" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Software Engineering</text>
-<circle cx="402" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
-<circle cx="402" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="2.91s;2.91s+9.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="2.91s" repeatCount="indefinite"/></circle>
-<line x1="533" y1="254" x2="533" y2="290" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
-<rect x="413" y="290" width="240" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
-<rect x="413" y="290" width="240" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="9.0s" begin="3.96s" repeatCount="indefinite"/></rect>
-<text x="533" y="322" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">Apr 2024</text>
-<text x="533" y="350" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Teacher Assistant</text>
-<text x="533" y="376" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Aptech Metro Star Gate</text>
-<text x="533" y="396" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Mentoring dev students</text>
-<circle cx="533" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
-<circle cx="533" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="3.96s;3.96s+9.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="3.96s" repeatCount="indefinite"/></circle>
-<line x1="664" y1="226" x2="664" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
-<rect x="544" y="58" width="240" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
-<rect x="544" y="58" width="240" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="9.0s" begin="5.01s" repeatCount="indefinite"/></rect>
-<text x="664" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2024</text>
-<text x="664" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Web Foundations</text>
-<text x="664" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >HTML/CSS → React, Laravel,</text>
-<text x="664" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >C# &amp; ASP.NET Core</text>
-<circle cx="664" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
-<circle cx="664" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="5.01s;5.01s+9.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="5.01s" repeatCount="indefinite"/></circle>
-<line x1="795" y1="254" x2="795" y2="290" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
-<rect x="675" y="290" width="240" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
-<rect x="675" y="290" width="240" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="9.0s" begin="6.07s" repeatCount="indefinite"/></rect>
-<text x="795" y="322" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2025</text>
-<text x="795" y="350" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Angular · TS · Flutter</text>
-<text x="795" y="376" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >MediNova apps, WatchHub,</text>
-<text x="795" y="396" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >DeenSphere ecosystem</text>
-<circle cx="795" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
-<circle cx="795" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="6.07s;6.07s+9.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="6.07s" repeatCount="indefinite"/></circle>
-<line x1="926" y1="226" x2="926" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
-<rect x="806" y="58" width="240" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
-<rect x="806" y="58" width="240" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="9.0s" begin="7.12s" repeatCount="indefinite"/></rect>
-<text x="926" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2025 – 26</text>
-<text x="926" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" >NexoVate Digital</text>
-<text x="926" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Client websites, CRMs</text>
-<text x="926" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >&amp; AI tooling as CEO</text>
-<circle cx="926" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
-<circle cx="926" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="7.12s;7.12s+9.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="7.12s" repeatCount="indefinite"/></circle>
-<line x1="1057" y1="254" x2="1057" y2="290" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
-<rect x="937" y="290" width="240" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
-<rect x="937" y="290" width="240" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="9.0s" begin="8.17s" repeatCount="indefinite"/></rect>
-<text x="1057" y="322" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2026</text>
-<text x="1057" y="350" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle" >AI · Data · Games</text>
-<text x="1057" y="376" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >ProfitLens, UrbanTransit IQ,</text>
-<text x="1057" y="396" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A9BCD6" text-anchor="middle" >PixelPunch, Unity 6</text>
-<circle cx="1057" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
-<circle cx="1057" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="8.17s;8.17s+9.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="8.17s" repeatCount="indefinite"/></circle>
-<circle cy="240" r="14" fill="url(#dot)"><animate attributeName="cx" values="40;1160" dur="9.0s" repeatCount="indefinite"/></circle>
+<line x1="125.0" y1="226" x2="125.0" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="15.0" y="58" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="15.0" y="58" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="0.76s" repeatCount="indefinite"/></rect>
+<text x="125.0" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2020 – 21</text>
+<text x="125.0" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Matric (SSC)</text>
+<text x="125.0" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >MJM School</text>
+<text x="125.0" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Science group</text>
+<circle cx="125.0" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="125.0" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="0.76s;0.76s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="0.76s" repeatCount="indefinite"/></circle>
+<line x1="243.75" y1="254" x2="243.75" y2="290" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="133.75" y="290" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="133.75" y="290" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="1.82s" repeatCount="indefinite"/></rect>
+<text x="243.75" y="322" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2021 – 23</text>
+<text x="243.75" y="350" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Intermediate (HSC)</text>
+<text x="243.75" y="376" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Pre-Engineering</text>
+<text x="243.75" y="396" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Superior Govt. College</text>
+<circle cx="243.75" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="243.75" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="1.82s;1.82s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="1.82s" repeatCount="indefinite"/></circle>
+<line x1="362.5" y1="226" x2="362.5" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="252.5" y="58" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="252.5" y="58" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="2.88s" repeatCount="indefinite"/></rect>
+<text x="362.5" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2023</text>
+<text x="362.5" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Started ADSE @ Aptech</text>
+<text x="362.5" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Advanced Diploma in</text>
+<text x="362.5" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Software Engineering</text>
+<circle cx="362.5" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="362.5" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="2.88s;2.88s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="2.88s" repeatCount="indefinite"/></circle>
+<line x1="481.25" y1="254" x2="481.25" y2="290" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="371.25" y="290" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="371.25" y="290" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="3.94s" repeatCount="indefinite"/></rect>
+<text x="481.25" y="322" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">Apr 2024</text>
+<text x="481.25" y="350" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Teacher Assistant</text>
+<text x="481.25" y="376" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Aptech Metro Star Gate</text>
+<text x="481.25" y="396" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Mentoring dev students</text>
+<circle cx="481.25" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="481.25" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="3.94s;3.94s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="3.94s" repeatCount="indefinite"/></circle>
+<line x1="600.0" y1="226" x2="600.0" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="490.0" y="58" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="490.0" y="58" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="5.00s" repeatCount="indefinite"/></rect>
+<text x="600.0" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2024</text>
+<text x="600.0" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Web Foundations</text>
+<text x="600.0" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >HTML/CSS → React, Laravel,</text>
+<text x="600.0" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >C# &amp; ASP.NET Core</text>
+<circle cx="600.0" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="600.0" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="5.00s;5.00s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="5.00s" repeatCount="indefinite"/></circle>
+<line x1="718.75" y1="254" x2="718.75" y2="290" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="608.75" y="290" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="608.75" y="290" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="6.06s" repeatCount="indefinite"/></rect>
+<text x="718.75" y="322" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2025</text>
+<text x="718.75" y="350" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Angular · TS · Flutter</text>
+<text x="718.75" y="376" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >MediNova apps, WatchHub,</text>
+<text x="718.75" y="396" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >DeenSphere ecosystem</text>
+<circle cx="718.75" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="718.75" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="6.06s;6.06s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="6.06s" repeatCount="indefinite"/></circle>
+<line x1="837.5" y1="226" x2="837.5" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="727.5" y="58" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="727.5" y="58" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="7.12s" repeatCount="indefinite"/></rect>
+<text x="837.5" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2025 – 26</text>
+<text x="837.5" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >NexoVate Digital</text>
+<text x="837.5" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Client websites, CRMs</text>
+<text x="837.5" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >&amp; AI tooling as CEO</text>
+<circle cx="837.5" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="837.5" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="7.12s;7.12s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="7.12s" repeatCount="indefinite"/></circle>
+<line x1="956.25" y1="254" x2="956.25" y2="290" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="846.25" y="290" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="846.25" y="290" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="8.18s" repeatCount="indefinite"/></rect>
+<text x="956.25" y="322" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">Jan – Mar 2026</text>
+<text x="956.25" y="350" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >Junior Flutter Dev</text>
+<text x="956.25" y="376" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >Mobile developer</text>
+<text x="956.25" y="396" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >DAMAC Hills, Dubai</text>
+<circle cx="956.25" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="956.25" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="8.18s;8.18s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="8.18s" repeatCount="indefinite"/></circle>
+<line x1="1075.0" y1="226" x2="1075.0" y2="186" stroke="#38BDF8" stroke-opacity=".5" stroke-dasharray="3 4"/>
+<rect x="965.0" y="58" width="220" height="128" rx="14" fill="#0B1A33" fill-opacity=".85" stroke="#38BDF8" stroke-opacity=".35"/>
+<rect x="965.0" y="58" width="220" height="128" rx="14" fill="none" stroke="#00C9FF" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.3" dur="10.0s" begin="9.24s" repeatCount="indefinite"/></rect>
+<text x="1075.0" y="90" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="800" fill="#00C9FF" text-anchor="middle" letter-spacing="1">2026</text>
+<text x="1075.0" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" >AI · Data · Games</text>
+<text x="1075.0" y="144" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >ProfitLens, UrbanTransit IQ,</text>
+<text x="1075.0" y="164" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#A9BCD6" text-anchor="middle" >PixelPunch, Unity 6</text>
+<circle cx="1075.0" cy="240" r="9" fill="#071d40" stroke="#00C9FF" stroke-width="3"/>
+<circle cx="1075.0" cy="240" r="9" fill="none" stroke="#00C9FF" stroke-width="2" opacity="0"><animate attributeName="r" values="9;24" dur="1.4s" begin="9.24s;9.24s+10.0s" fill="freeze" repeatCount="1"/><animate attributeName="opacity" values=".9;0" dur="1.4s" begin="9.24s" repeatCount="indefinite"/></circle>
+<circle cy="240" r="14" fill="url(#dot)"><animate attributeName="cx" values="40;1160" dur="10.0s" repeatCount="indefinite"/></circle>
 <text x="1152" y="458" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#38BDF8" text-anchor="end" font-style="italic">and still shipping →</text>
 </svg>

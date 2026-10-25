@@ -1,654 +1,225 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔷  MUHAMMAD AFFAN — ENTERPRISE GITHUB PROFILE README                   -->
-<!-- 🔷  All visual effects use SVG image APIs — no inline CSS (GitHub strips it) -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!-- Ambient Twinkling Cosmic Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0052D4,100:00C9FF&height=240&section=header&text=MUHAMMAD%20AFFAN&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Founder%20%26%20CEO%20@%20NexoVate%20Digital%20%E2%80%A2%20Enterprise%20Full-Stack%20%26%20AI%20Architect&descAlign=50&descAlignY=70&descSize=16" alt="Muhammad Affan Enterprise Banner">
-</p>
-
-<!-- Live Telemetry & Real-Time Operational Status -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammadd-01&label=LIVE+TELEMETRY+VIEWS&style=for-the-badge&color=00C9FF&labelColor=0D1117" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/Muhammadd-01?label=ENTERPRISE+NETWORK&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Muhammadd-01?label=CODEBASE+STARS&style=for-the-badge&color=38BDF8&labelColor=0D1117&logo=github" alt="GitHub Stars">
-</p>
-
-<!-- Operational Health & Architecture Shields -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL_%F0%9F%9F%A2-0D1117?style=for-the-badge&color=00E5FF&labelColor=080B10" alt="System Status">
-  <img src="https://img.shields.io/badge/CODE_QUALITY-A%2B_ENTERPRISE-0D1117?style=for-the-badge&color=00C9FF&labelColor=080B10" alt="Code Quality">
-  <img src="https://img.shields.io/badge/SECURITY-OWASP_HARDENED-0D1117?style=for-the-badge&color=38BDF8&labelColor=080B10" alt="Security Hardened">
-  <img src="https://img.shields.io/badge/ARCHITECTURE-CLOUD_NATIVE-0D1117?style=for-the-badge&color=00E5FF&labelColor=080B10" alt="Cloud Native Architecture">
-</p>
-
-<!-- Orbitron Futuristic Executive Title Generator -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=CHIEF+EXECUTIVE+OFFICER+%40+NEXOVATE+DIGITAL;ENTERPRISE+FULL-STACK+SYSTEMS+ARCHITECT;AI+%26+PREDICTIVE+ML+PIPELINE+ENGINEER;BUILDING+HIGH-CONCURRENCY+CLOUD+APPLICATIONS;DELIVERING+SCALABLE+COMMERCIAL+SOFTWARE+SOLUTIONS" alt="Executive Typing Animation">
-  </a>
-</p>
-
-<!-- Animated Developer Terminal Showcase -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620" alt="Futuristic Developer GIF">
-</p>
-
-<!-- Animated Neon Wave Transition -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
-</p>
-
-<!-- Executive Summary & Corporate Value Proposition -->
-<div align="center">
-  <h3>⚡ <em>"Delivering robust software architecture, resilient AI ecosystems, and enterprise-grade web platforms that transform commercial vision into market dominance."</em> ⚡</h3>
-</div>
-
-<br>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  MUHAMMAD AFFAN · GitHub Profile README                                -->
+<!--  Every project, link and stat below points at something real.          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  I am a seasoned <strong>Full-Stack Systems Architect</strong>, <strong>Artificial Intelligence Strategist</strong>, and the <strong>Founder & CEO of NexoVate Digital</strong> located in Karachi, Pakistan 🇵🇰. I collaborate with enterprises, fast-scaling software houses, and global organizations to architect high-throughput web applications, engineer mission-critical cloud automation, and integrate state-of-the-art machine learning models into secure, high-availability ecosystems.
-</p>
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  NEXOVATE DIGITAL & COMMERCIAL LEADERSHIP — CURVED FRAME    ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=8&section=header" width="88%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=%F0%9F%8F%A2%20NexoVate%20Digital%20%26%20Commercial%20Leadership&fontSize=24&fontColor=00E5FF&fontAlign=50&animation=fadeIn" width="88%" alt="NexoVate Digital Leadership">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0052D4,100:00C9FF&height=230&section=header&text=Muhammad%20Affan&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%20Developer%20%E2%80%94%20Founder%20of%20NexoVate%20Digital&descAlignY=58&descSize=17" alt="Muhammad Affan banner" width="100%">
 </p>
 
 <p align="center">
-  At the helm of <strong>NexoVate Digital</strong>, I establish rigorous engineering standards and deliver turnkey commercial software solutions:<br><br>
-  ✅ <strong>Enterprise Web Architecture:</strong> Custom cloud-native apps engineered for 99.9% availability and high user throughput.<br>
-  ✅ <strong>AI & Automated Intelligence:</strong> Integrating custom machine learning inferencing engines and automated operational pipelines.<br>
-  ✅ <strong>Modern Design Systems:</strong> Intuitive, frictionless glassmorphic and high-performance reactive UI/UX implementation.
-</p>
-
-<p align="center">
-  <a href="https://nexovate-digital.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/ENTERPRISE_PORTAL_-_NEXOVATE_DIGITAL-0052D4?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=080B10&color=00C9FF" alt="NexoVate Digital Web App" />
+  <a href="https://github.com/Muhammadd-01">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&width=640&lines=Full-Stack+Web+Developer+%E2%80%94+MERN+%26+Next.js;Flutter+%26+React+Native+App+Developer;Building+AI+%26+Data-Driven+Products;Founder+%40+NexoVate+Digital;100%2B+public+repos+and+still+shipping+%F0%9F%9A%80" alt="Typing intro">
   </a>
 </p>
 
 <p align="center">
-  <sup><img src="website-icon.png" width="18" height="18" alt="NexoVate Icon" /> <strong>NexoVate Digital • Engineering High-Impact Technology</strong></sup>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=8&section=footer" width="88%" alt="">
-</p>
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  ENTERPRISE CAPABILITIES & ARCHITECTURE — CURVED FRAME      ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:0052D4&height=8&section=header" width="88%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=%F0%9F%8E%AF%20Enterprise%20Capabilities%20%26%20Architecture&fontSize=24&fontColor=00C9FF&fontAlign=50&animation=fadeIn" width="88%" alt="Enterprise Capabilities">
+  <a href="https://github.com/Muhammadd-01?tab=followers"><img src="https://img.shields.io/github/followers/Muhammadd-01?label=Follow&style=for-the-badge&logo=github&color=00C9FF&labelColor=0D1117" alt="Follow on GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=Muhammadd-01&label=Profile%20Views&style=for-the-badge&color=0052D4&labelColor=0D1117" alt="Profile views">
+  <a href="https://github.com/Muhammadd-01?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-100%2B-38BDF8?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="100+ public repositories"></a>
 </p>
 
 <p align="center">
-  Designed to exceed demanding software house delivery and engineering benchmarks:<br><br>
-  🔸 <code>Distributed Architecture</code> : Designing decoupled microservices, high-performance APIs, and event-driven backends.<br>
-  🔸 <code>Full-Stack Mastery</code> : End-to-end fluency across MERN, MEAN, Python, and .NET corporate frameworks.<br>
-  🔸 <code>AI & Data Systems</code> : Deploying predictive modeling, LLM workflows, and intelligent business logic.<br>
-  🔸 <code>Defensive Cyber Operations</code> : Strict OWASP compliance, zero-trust mindset, and rigorous web security hardening.
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:00C9FF&height=8&section=footer" width="88%" alt="">
+  <a href="https://affann-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00C9FF" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/muhammad-affan-8ab604280"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="mailto:affan.work05@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://x.com/affann_23"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://www.instagram.com/almuharib._.7/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=61572493182768"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
 </p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
 
-<!-- Corporate Connect & Network Ribbon -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-affan-8ab604280" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C9FF" alt="LinkedIn"></a>
-  <a href="https://nexovate-digital.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/NexoVate_Digital_Ecosystem-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="NexoVate Digital"></a>
-  <a href="mailto:affan.work05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Schedule_Consultation-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
-  <a href="https://www.instagram.com/almuharib._.7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF4D6D" alt="Instagram"></a>
-  <a href="https://www.facebook.com/profile.php?id=61572493182768" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
-</p>
+## 👋 About Me
 
-<!-- Animated Neon Wave Transition -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
-</p>
+I'm **Muhammad Affan**, a developer from **Karachi, Pakistan 🇵🇰** and the founder of **[NexoVate Digital](https://nexovate-digital.vercel.app/)**. I build complete products end to end: web apps with **React / Next.js / Node**, cross-platform mobile apps with **Flutter**, and **Python + FastAPI** services that put machine learning behind a clean UI.
 
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<!--  FEATURED ENTERPRISE & COMMERCIAL PROJECTS                         -->
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:001122,50:0052D4,100:00C9FF&text=%F0%9F%9A%80%20Featured%20Enterprise%20%26%20Commercial%20Projects&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Featured Projects Header">
-</p>
+```yaml
+currently_building:  AI-powered SaaS tools, Flutter apps & games, client websites at NexoVate Digital
+recently_shipped:    UrbanTransit IQ (PySpark + FastAPI analytics) · PixelPunch (Flutter + Flame game)
+focus_areas:         Full-Stack Web · Mobile (Flutter) · Applied ML & Data · 2D/3D Games
+learning:            Unity 6 multiplayer, local LLMs, scalable backend design
+ask_me_about:        MERN, Next.js, Flutter, Firebase / Supabase, FastAPI
+outside_code:        Islamic history & philosophy · strategy games
+open_to:             Freelance projects, collaborations & full-time roles
+motto:               "Ummah first ☝️ · Lifelong learner 📚"
+```
 
-<p align="center">
-  <em>An architectural portfolio demonstrating commercial engineering rigor, production AI deployment, and high-throughput systems delivery.</em>
-</p>
+## 🏢 NexoVate Digital
 
-<br>
+<table>
+  <tr>
+    <td width="90" align="center"><img src="website-icon.png" width="72" alt="NexoVate Digital logo"></td>
+    <td>
+      <b>NexoVate Digital</b> is my software studio. We design and build websites, web apps, mobile apps and AI tools for businesses and individuals, from first idea to deployment.<br><br>
+      <a href="https://nexovate-digital.vercel.app/"><img src="https://img.shields.io/badge/Visit%20NexoVate%20Digital-0052D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit NexoVate Digital"></a>
+    </td>
+  </tr>
+</table>
 
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 1: NexoVate Digital Ecosystem — CURVED NEON FRAME  ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=8&section=header" width="82%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&color=0:001122,100:0052D4&text=%F0%9F%8F%A2%20NexoVate%20Digital%20Ecosystem&fontSize=19&fontColor=00E5FF&fontAlign=50" width="75%" alt="NexoVate Digital Project">
-</p>
-<p align="center">
-  <strong>Commercial Software Platform & Digital Architecture</strong><br>
-  Flagship corporate platform delivering state-of-the-art cloud solutions, custom reactive web applications, and digital transformation consulting.
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
 
-<!-- Looping Dummy Transition Preview GIF -->
-<!-- 💡 NOTE: Replace src with your own animated .gif of real project screenshots! -->
-<p align="center">
-  <a href="https://nexovate-digital.vercel.app/" target="_blank">
-    <img src="https://media.giphy.com/media/xT9IgzoEkODbHQzHqM/giphy.gif" width="660" alt="NexoVate Digital Multi-View Loop Transition" />
-  </a>
-</p>
-<p align="center">
-  <sup>🔄 <em>Interactive Prototype Slideshow Loop • Displaying Multi-Screen Cloud UI Transitions</em></sup>
-</p>
+## 🚀 Featured Projects
 
-<!-- Expandable Multi-Image Screenshot Gallery -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚊 <a href="https://github.com/Muhammadd-01/UrbanTransit_IQ">UrbanTransit IQ</a></h3>
+      Big-data transit intelligence platform for Karachi: travel patterns, anomaly detection and route clustering with <b>PySpark MLlib</b>, served through <b>FastAPI</b> and a React dashboard.<br><br>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"><br><br>
+      <a href="https://urban-transit-iq.vercel.app">🌐 Live demo</a> · <a href="https://github.com/Muhammadd-01/UrbanTransit_IQ">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/Muhammadd-01/ProfitLens">ProfitLens</a></h3>
+      AI business-intelligence SaaS for small businesses: upload sales data and get forecasting, churn prediction, RFM + K-Means customer segmentation and anomaly detection.<br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"><br><br>
+      <a href="https://github.com/Muhammadd-01/ProfitLens">📂 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥊 <a href="https://github.com/Muhammadd-01/Pixel_Punch">PixelPunch</a></h3>
+      Cartoon 2D fighting &amp; exploration game with Solo / Duo / Squad modes, a <b>"Villain Lab"</b> that turns a selfie into a playable villain using on-device ML Kit, and a Unity 3D royale mode.<br><br>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/Flame-FF6F00?style=flat-square&logo=fireship&logoColor=white" alt="Flame">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"><br><br>
+      <a href="https://github.com/Muhammadd-01/Pixel_Punch">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌚ <a href="https://github.com/Muhammadd-01/WatchHub_Project">WatchHub</a></h3>
+      Luxury watch e-commerce platform: a cross-platform customer app for iOS &amp; Android plus a web-based admin panel for products, orders and store operations.<br><br>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"><br><br>
+      <a href="https://github.com/Muhammadd-01/WatchHub_Project">📂 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦂 <a href="https://github.com/Muhammadd-01/Scorpian_Cursor">Scorpion Cursor</a></h3>
+      macOS desktop companion: an articulated, animated scorpion that chases your cursor across every app and Space, with sprint mode and live resizing. Native Swift helper for global mouse tracking.<br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"><br><br>
+      <a href="https://github.com/Muhammadd-01/Scorpian_Cursor">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/Muhammadd-01/Storelytics">Storelytics</a></h3>
+      Retail analytics for pharmacies and general stores: inventory, profit tracking, expiry &amp; low-stock alerts, demand logging and PDF reports with role-based access.<br><br>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"><br><br>
+      <a href="https://github.com/Muhammadd-01/Storelytics">📂 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://github.com/Muhammadd-01/AI_Researcher">AI Researcher</a></h3>
+      Autonomous research agent that gathers articles, repos and videos on any topic and summarises them with a <b>local LLM</b> (Qwen2.5) running in-memory: no paid APIs.<br><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"><br><br>
+      <a href="https://github.com/Muhammadd-01/AI_Researcher">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏨 <a href="https://github.com/Muhammadd-01/Hotel_Management_System">AI Hotel Management System</a></h3>
+      MERN hotel system with JWT auth, room &amp; booking management, dynamic pricing, Socket.io notifications, PDF invoices and a smart booking assistant that understands English &amp; Roman Urdu.<br><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"><br><br>
+      <a href="https://github.com/Muhammadd-01/Hotel_Management_System">📂 Code</a>
+    </td>
+  </tr>
+</table>
+
 <details>
-  <summary><b>📸 Expand Multi-Image Prototype & Gallery Grid (Click to view sample screenshots)</b></summary>
+  <summary><b>🌐 More live projects (click to expand)</b></summary>
   <br>
-  <p align="center">
-    <em>Dummy multi-image showcase — replace these placeholder screenshots with your real project interface snapshots!</em>
-  </p>
-  <p align="center">
-    <strong>Screen 01: Executive Cloud Portal</strong><br><br>
-    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80" width="46%" alt="View 1" />
-    &nbsp;&nbsp;
-    <strong>Screen 02: Real-time Telemetry Dashboard</strong><br><br>
-    <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80" width="46%" alt="View 2" />
-  </p>
+
+| Project | What it is | Links |
+|---|---|---|
+| **NexoVate Digital** | Agency website for my software studio | [Live](https://nexovate-digital.vercel.app/) · [Code](https://github.com/Muhammadd-01/NexoVate-Digital) |
+| **DeenSphere** | Islamic knowledge & community platform: Quran learning, scholars, history, lectures | [Live](https://deen-sphere.vercel.app) · [Code](https://github.com/Muhammadd-01/Deen_Sphere_Website) |
+| **DeenVerse** | Islamic AI platform built with React + Vite | [Live](https://deen-verse.vercel.app) · [Code](https://github.com/Muhammadd-01/Islamic-Project) |
+| **MediNova Admin Panel** | Admin dashboard for the MediNova healthcare app | [Live](https://medinova-admin-panel.vercel.app) · [Code](https://github.com/Muhammadd-01/MediNova_AdminPanel) |
+| **Meridian QM Workspace** | CRM, sales pipeline, projects & reports for ISO consultants and auditors | [Live](https://meridian-quality-management.vercel.app) · [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) |
+| **Meridian LMS** | Course marketplace, learner app & admin console demo | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
+| **FakeGuardAI** | Fake-news detector: TF-IDF model, clickbait & emotion analysis | [Code](https://github.com/Muhammadd-01/Fake_AI_News_Detector) |
+| **JobSeeking AI** | React Native app that matches jobs to your CV | [Code](https://github.com/Muhammadd-01/jobSeekingAI) |
+| **Rage Hunters** | Mobile-first 3D multiplayer survival game in Unity 6 | [Code](https://github.com/Muhammadd-01/Rage_Hunters) |
+| **Portfolio** | Personal portfolio built with Next.js 14 & Framer Motion | [Live](https://affann-portfolio.vercel.app/) · [Code](https://github.com/Muhammadd-01/Affan-sPortolio) |
+
 </details>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+
+## 🛠️ Tech Stack
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cs,php,swift,html,css&perline=9" alt="Languages">
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind,threejs,figma&perline=9" alt="Frontend">
+
+**Mobile, Desktop & Games**<br>
+<img src="https://skillicons.dev/icons?i=flutter,electron,unity,blender&perline=9" alt="Mobile, desktop and games">
+
+**Backend & AI**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,laravel,dotnet,pytorch,sklearn&perline=9" alt="Backend and AI">
+
+**Databases & Cloud**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,redis,vercel,docker&perline=9" alt="Databases and cloud">
+
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=9" alt="Tools">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00C9FF" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
-</p>
-<p align="center">
-  <a href="https://nexovate-digital.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/EXPLORE_LIVE_PORTAL_%E2%86%97-0052D4?style=for-the-badge&color=00C9FF&labelColor=080B10" alt="Live Portal" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=8&section=footer" width="82%" alt="">
-</p>
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 2: AI Predictive Inference Engine — CURVED FRAME   ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00C9FF&height=8&section=header" width="82%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&color=0:001122,100:0052D4&text=%F0%9F%A4%96%20AI%20Predictive%20Inference%20Engine&fontSize=19&fontColor=00C9FF&fontAlign=50" width="75%" alt="AI Inference Engine">
-</p>
-<p align="center">
-  <strong>Autonomous Machine Learning & Forecasting Architecture</strong><br>
-  Engineered predictive analytics models and generative AI operational pipelines designed to automate business intelligence and real-time decision support systems.
-</p>
-
-<!-- Looping Dummy Transition Preview GIF -->
-<p align="center">
-  <a href="https://github.com/Muhammadd-01" target="_blank">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="660" alt="AI Neural Network Looping Transition" />
-  </a>
-</p>
-<p align="center">
-  <sup>🔄 <em>Neural Network Execution Loop • Automated Data Node & Model Training Transition</em></sup>
-</p>
-
-<!-- Expandable Multi-Image Screenshot Gallery -->
-<details>
-  <summary><b>📸 Expand AI Architecture & Inference Gallery (Click to view sample screenshots)</b></summary>
-  <br>
-  <p align="center">
-    <em>Dummy multi-image showcase — replace with your AI training matrices & charts!</em>
-  </p>
-  <p align="center">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80" width="46%" alt="AI View 1" />
-    &nbsp;&nbsp;
-    <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=600&q=80" width="46%" alt="AI View 2" />
-  </p>
-</details>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-</p>
-<p align="center">
-  <a href="https://github.com/Muhammadd-01" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_AI_ARCHITECTURE_%F0%9F%A7%A0-0052D4?style=for-the-badge&color=00E5FF&labelColor=080B10" alt="AI Architecture" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:001122&height=8&section=footer" width="82%" alt="">
-</p>
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 3: High-Concurrency API Gateway — CURVED FRAME     ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:38BDF8&height=8&section=header" width="82%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&color=0:001122,100:0052D4&text=%E2%9A%A1%20High-Concurrency%20API%20Gateway%20%26%20Cloud%20Platform&fontSize=19&fontColor=38BDF8&fontAlign=50" width="75%" alt="API Gateway Project">
-</p>
-<p align="center">
-  <strong>Distributed Microservices Backend System</strong><br>
-  Decoupled, event-driven enterprise backend system utilizing strict type safety, real-time WebSocket communication, and multi-tenant database partitioning.
-</p>
-
-<!-- Looping Dummy Transition Preview GIF -->
-<p align="center">
-  <a href="https://github.com/Muhammadd-01" target="_blank">
-    <img src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" width="660" alt="Server Cluster & Throughput Looping Transition" />
-  </a>
-</p>
-<p align="center">
-  <sup>🔄 <em>Microservices Telemetry Loop • Live API Throughput & Distributed Node Transition</em></sup>
-</p>
-
-<!-- Expandable Multi-Image Screenshot Gallery -->
-<details>
-  <summary><b>📸 Expand Backend Topology & Gateway Gallery (Click to view sample screenshots)</b></summary>
-  <br>
-  <p align="center">
-    <em>Dummy multi-image showcase — replace with your cloud server diagrams & monitoring views!</em>
-  </p>
-  <p align="center">
-    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=600&q=80" width="46%" alt="Gateway View 1" />
-    &nbsp;&nbsp;
-    <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80" width="46%" alt="Gateway View 2" />
-  </p>
-</details>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
-</p>
-<p align="center">
-  <a href="https://github.com/Muhammadd-01" target="_blank">
-    <img src="https://img.shields.io/badge/INSPECT_SYSTEM_SPECS_%E2%9A%99%EF%B8%8F-0052D4?style=for-the-badge&color=38BDF8&labelColor=080B10" alt="System Specs" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:001122&height=8&section=footer" width="82%" alt="">
-</p>
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 4: Cyber Vulnerability Suite — CURVED FRAME        ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00E5FF&height=8&section=header" width="82%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&color=0:001122,100:0052D4&text=%F0%9F%9B%A1%EF%B8%8F%20Cyber%20Vulnerability%20%26%20Defensive%20Hardening%20Suite&fontSize=19&fontColor=00E5FF&fontAlign=50" width="75%" alt="Cyber Vulnerability Suite">
-</p>
-<p align="center">
-  <strong>Offensive Security & OWASP Audit Pipeline</strong><br>
-  Automated defensive reconnaissance and security auditing toolkit engineered to harden enterprise web platforms against modern injection and exploitation threats.
-</p>
-
-<!-- Looping Dummy Transition Preview GIF -->
-<p align="center">
-  <a href="https://github.com/Muhammadd-01" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh0ODExZzB1Y2g5c3Y2MGQxbjhxaXZmYjdzOWpudXNoY3ExMHczbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="660" alt="Cybersecurity Radar Scan Looping Transition" />
-  </a>
-</p>
-<p align="center">
-  <sup>🔄 <em>Defensive Security Audit Loop • Continuous Vulnerability Scanning & Zero-Trust Radar Transition</em></sup>
-</p>
-
-<!-- Expandable Multi-Image Screenshot Gallery -->
-<details>
-  <summary><b>📸 Expand Security Audit & Reconnaissance Gallery (Click to view sample screenshots)</b></summary>
-  <br>
-  <p align="center">
-    <em>Dummy multi-image showcase — replace with your security scanning terminal reports!</em>
-  </p>
-  <p align="center">
-    <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=600&q=80" width="46%" alt="Cyber View 1" />
-    &nbsp;&nbsp;
-    <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=600&q=80" width="46%" alt="Cyber View 2" />
-  </p>
-</details>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&color=FF4D6D" />
-</p>
-<p align="center">
-  <a href="https://github.com/Muhammadd-01" target="_blank">
-    <img src="https://img.shields.io/badge/EXACT_DEFENSIVE_TOOLING_%F0%9F%9B%A1%EF%B8%8F-0052D4?style=for-the-badge&color=00C9FF&labelColor=080B10" alt="Defensive Tooling" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5FF,100:001122&height=8&section=footer" width="82%" alt="">
-</p>
-
-<!-- Animated Neon Wave Transition -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
-</p>
-
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<!--  PROFESSIONAL CERTIFICATIONS & CREDENTIALS                         -->
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:00C9FF,50:0052D4,100:001122&text=%F0%9F%93%9C%20Professional%20Certifications%20%26%20Credentials&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Certifications Header">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadd-01&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=00C9FF&text_color=E6EDF3&icon_color=38BDF8&border_color=0052D4&border_radius=12" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadd-01&layout=compact&langs_count=6&hide=html,css&exclude_repo=Fake_AI_News_Detector,Automation&bg_color=0D1117&title_color=00C9FF&text_color=E6EDF3&border_color=0052D4&border_radius=12" alt="Most used languages" height="170">
 </p>
 
 <p align="center">
-  <em>Formal engineering competencies, validated industry expertise, and advanced architectural mastery.</em>
+  <img src="https://streak-stats.demolab.com/?user=Muhammadd-01&theme=tokyonight&background=0D1117&border=0052D4&ring=00C9FF&fire=38BDF8&currStreakLabel=00C9FF&sideLabels=9DDCFF&dates=9DDCFF&border_radius=12" alt="GitHub streak">
 </p>
 
-<br>
+## 🐍 Contribution Snake
 
-<!-- Cert 1 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:003366&height=6&section=header" width="72%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%F0%9F%8E%93%20Full-Stack%20Systems%20Architect%20%E2%80%A2%20MERN%20%26%20MEAN%20Mastery&fontSize=16&fontColor=00C9FF&fontAlign=50" width="68%" alt="Full-Stack Cert"><br>
-  <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=00C9FF" alt="Verified Credential">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:001122&height=6&section=footer" width="72%" alt="">
-</p>
-
-<br>
-
-<!-- Cert 2 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:003366&height=6&section=header" width="72%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%F0%9F%A4%96%20Artificial%20Intelligence%20Specialist%20%E2%80%A2%20Deep%20Learning%20%26%20LLMs&fontSize=16&fontColor=00E5FF&fontAlign=50" width="68%" alt="AI Specialist Cert"><br>
-  <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=00E5FF" alt="Verified Credential">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:001122&height=6&section=footer" width="72%" alt="">
-</p>
-
-<br>
-
-<!-- Cert 3 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:003366&height=6&section=header" width="72%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity%20%26%20Defensive%20Engineer%20%E2%80%A2%20OWASP%20Audit&fontSize=16&fontColor=38BDF8&fontAlign=50" width="68%" alt="Cybersecurity Cert"><br>
-  <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=38BDF8" alt="Verified Credential">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:001122&height=6&section=footer" width="72%" alt="">
-</p>
-
-<br>
-
-<!-- Cert 4 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:003366&height=6&section=header" width="72%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=48&color=0:001122,100:003366&text=%E2%98%81%EF%B8%8F%20Cloud%20DevOps%20%26%20Container%20Architect%20%E2%80%A2%20Docker%20%26%20AWS&fontSize=16&fontColor=00C9FF&fontAlign=50" width="68%" alt="Cloud DevOps Cert"><br>
-  <img src="https://img.shields.io/badge/VERIFIED_INDUSTRY_CREDENTIAL_%F0%9F%9F%A2-0052D4?style=for-the-badge&labelColor=080B10&color=00C9FF" alt="Verified Credential">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:001122&height=6&section=footer" width="72%" alt="">
-</p>
-
-<!-- Animated Neon Wave Transition -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
-</p>
-
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<!--  INDUSTRIAL TECHNOLOGY & ARCHITECTURE ARSENAL                       -->
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:001122,50:0052D4,100:38BDF8&text=%F0%9F%8F%9B%EF%B8%8F%20Industrial%20Technology%20%26%20Architecture%20Arsenal&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Tech Stack Header">
-</p>
-
-<p align="center">
-  <em>A battle-tested technology suite tailored for scalable enterprise web applications, high-concurrency microservices, and AI inference pipelines.</em>
-</p>
-
-<br>
-
-<!-- Frontend Curved Frame -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=6&section=header" width="78%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=45&color=0:001122,100:0052D4&text=%F0%9F%8C%90%20Frontend%20Systems%20%26%20Responsive%20Design%20Architecture&fontSize=16&fontColor=00C9FF&fontAlign=50" width="72%" alt="Frontend Header"><br><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,typescript,javascript,html,css,tailwind,bootstrap,vite,figma" alt="Frontend Tech Stack" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=6&section=footer" width="78%" alt="">
-</p>
-
-<br>
-
-<!-- Backend Curved Frame -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00C9FF&height=6&section=header" width="78%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=45&color=0:001122,100:0052D4&text=%E2%9A%99%EF%B8%8F%20Backend%20Engineering%2C%20Microservices%20%26%20Data%20APIs&fontSize=16&fontColor=00E5FF&fontAlign=50" width="72%" alt="Backend Header"><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,laravel,cs,dotnet" alt="Backend Tech Stack" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:001122&height=6&section=footer" width="78%" alt="">
-</p>
-
-<br>
-
-<!-- Database & Cloud Curved Frame -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:38BDF8&height=6&section=header" width="78%" alt="">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=45&color=0:001122,100:0052D4&text=%F0%9F%97%84%EF%B8%8F%20Database%20Architecture%20%26%20Cloud%20DevOps%20Infrastructure&fontSize=16&fontColor=38BDF8&fontAlign=50" width="72%" alt="Database Header"><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,aws,azure,vercel,netlify,postman" alt="Database & Cloud DevOps Tech Stack" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:001122&height=6&section=footer" width="78%" alt="">
-</p>
-
-<!-- Animated Neon Wave Transition -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
-</p>
-
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<!--  ENGINEERING VELOCITY & TELEMETRY — CURVED SVG STAT CARDS           -->
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:38BDF8,50:0052D4,100:001122&text=%F0%9F%93%8A%20Enterprise%20Engineering%20Velocity%20%26%20Telemetry&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Telemetry Header">
-</p>
-
-<p align="center">
-  <em>Live coding output, contribution momentum, and domain-wide repository telemetry featuring curved neon-bordered SVGs.</em>
-</p>
-
-<br>
-
-<!-- Streak and General Stats (border_radius=24 & border_color=00C9FF baked into the SVG) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadd-01&theme=tokyonight&background=0B0E14&ring=00C9FF&fire=00E5FF&currStreakNum=ffffff&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=9DDCFF&dates=9DDCFF&border=00C9FF&border_radius=24" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadd-01&show_icons=true&bg_color=0B0E14&title_color=00C9FF&text_color=E6EDF3&icon_color=00E5FF&border_color=00C9FF&border_radius=24&count_private=true" alt="GitHub Stats" width="48%" />
-</p>
-
-<br>
-
-<!-- Language Breakdown (border_radius=24 & border_color baked into SVG) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadd-01&theme=tokyonight" alt="Repos Per Language" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadd-01&bg_color=0B0E14&title_color=00C9FF&text_color=E6EDF3&layout=compact&border_color=00E5FF&border_radius=24" alt="Top Languages" width="48%" />
-</p>
-
-<br>
-
-<!-- Activity Graph (radius=20 baked into SVG) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadd-01&bg_color=0B0E14&color=00C9FF&line=00E5FF&point=ffffff&area_color=002244&area=true&radius=20" alt="Contribution Activity Graph" width="96%" />
-</p>
-
-<!-- Animated Neon Wave Transition -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
-</p>
-
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<!--  AUTONOMOUS CONTRIBUTION ENGINE — SNAKE                             -->
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:001122,50:0052D4,100:00E5FF&text=%F0%9F%90%8D%20Autonomous%20Contribution%20Engine&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Contribution Engine Header">
-</p>
-<p align="center">
-  <em>Continuous integration visual tracker — watch the contribution snake navigating real-time commit timelines!</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=6&section=header" width="96%" alt="">
-</p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" width="94%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg">
+    <img alt="Contribution snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Muhammadd-01/Muhammadd-01/output/github-snake.svg" width="100%">
   </picture>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=6&section=footer" width="96%" alt="">
-</p>
 
-<!-- Animated Neon Wave Transition -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
 
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<!--  INDUSTRY BENCHMARKS & REPOSITORY PORTFOLIO                         -->
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:00E5FF,50:0052D4,100:001122&text=%F0%9F%8F%86%20Industry%20Benchmarks%20%26%20Repository%20Portfolio&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Trophies Header">
-</p>
-
-<br>
-
-<!-- Trophies Curved Frame -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:38BDF8&height=6&section=header" width="92%" alt="">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadd-01&theme=tokyo-night&no-frame=false&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:001122&height=6&section=footer" width="92%" alt="">
-</p>
-
-<br>
-
-<!-- Top Repos Curved Frame -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00E5FF&height=6&section=header" width="88%" alt="">
-</p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Muhammadd-01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="85%" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5FF,100:001122&height=6&section=footer" width="88%" alt="">
-</p>
-
-<!-- Animated Neon Wave Transition -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Cyber Divider">
-</p>
-
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<!--  ENGINEERING PHILOSOPHY & DEV WISDOM                                 -->
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=75&color=0:001122,50:0052D4,100:00C9FF&text=%F0%9F%9A%80%20Engineering%20Philosophy%20%26%20Dev%20Wisdom&fontSize=26&fontColor=ffffff&fontAlign=50" width="96%" alt="Philosophy Header">
-</p>
-
-<br>
+<h3 align="center">🤝 Let's build something together</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:0052D4&height=6&section=header" width="88%" alt="">
+  Have a project in mind or want to collaborate? <a href="mailto:affan.work05@gmail.com"><b>Email me</b></a> or reach out on <a href="https://www.linkedin.com/in/muhammad-affan-8ab604280"><b>LinkedIn</b></a>.<br>
+  If something here helped or inspired you, a <b>⭐ star</b> on the repo and a <b>follow</b> are always appreciated!
 </p>
 
 <p align="center">
-  A holistic approach to software craftsmanship blends modern technological disruption with foundational analytical discipline:<br><br>
-  🔹 <code>Architectural Discipline</code> : Designing clean, highly testable, and documented production systems.<br>
-  🔹 <code>Advanced Intelligence</code> : Experimenting with AI neural networks and autonomous multi-agent architectures.<br>
-  🔹 <code>Defensive Cyber Strategies</code> : Continuous study of ethical hacking protocols to guarantee secure commercial infrastructure.<br>
-  🔹 <code>Analytical & Mystical Inquiry</code> : Deep research into Islamic history, philosophical teachings, mystique, and analytical case studies.<br>
-  🔹 <code>Strategic Mindset</code> : Tactical gaming and continuous technological exploration.
+  <a href="https://github.com/Muhammadd-01?tab=followers"><img src="https://img.shields.io/badge/Follow%20%40Muhammadd--01-0D1117?style=for-the-badge&logo=github&logoColor=00C9FF" alt="Follow @Muhammadd-01"></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0052D4,100:001122&height=6&section=footer" width="88%" alt="">
-</p>
-
-<br>
-
-<!-- Dev Quote Curved Frame -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001122,100:00C9FF&height=6&section=header" width="88%" alt="">
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="85%" />
-</p>
-<p align="center"><em>"Quality architecture is not an act, it is a continuous habit."</em></p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:001122&height=6&section=footer" width="88%" alt="">
-</p>
-
-<br>
-
-<!-- Animated Twinkling Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:0052D4,100:001122&height=160&section=footer&animation=twinkling" alt="Footer Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:0052D4,100:001122&height=120&section=footer" alt="" width="100%">
 </p>

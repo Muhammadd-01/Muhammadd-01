@@ -18,10 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+      - name: Render straight 3D calendar
+        run: python3 .github/scripts/contrib_3d.py "${{ github.repository_owner }}" profile-3d-contrib/calendar-3d.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
       - name: Commit & push
         run: |
           git config user.name github-actions[bot]

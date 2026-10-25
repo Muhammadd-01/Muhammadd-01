@@ -312,7 +312,7 @@ Design isn't a coat of paint at the end. I start every project with the user's f
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="28" alt=""> Contributions in 3D</h3>
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D isometric contribution calendar (regenerated daily by GitHub Actions)">
+  <img src="profile-3d-contrib/calendar-3d.svg" width="100%" alt="3D contribution calendar for the last 12 months (regenerated daily by GitHub Actions)">
 </p>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" alt=""> Contribution Snake</h3>

@@ -316,12 +316,12 @@ const affan = {
 <!-- LATEST-REPOS:START -->
 | Project | Stack | Updated | Links |
 |---|---|---|---|
-| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 2 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
-| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 3 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
-| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 3 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
+| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 3 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
+| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 4 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
+| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 4 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
 | **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 4 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
-| **[Affan sPortolio](https://github.com/Muhammadd-01/Affan-sPortolio)** | TypeScript | 5 days ago | [Code](https://github.com/Muhammadd-01/Affan-sPortolio) · [Live](https://affann-portfolio.vercel.app) |
-| **[Nexus AI](https://github.com/Muhammadd-01/Nexus_AI)** | TypeScript | 9 days ago | [Code](https://github.com/Muhammadd-01/Nexus_AI) |
+| **[Affan sPortolio](https://github.com/Muhammadd-01/Affan-sPortolio)** | TypeScript | 6 days ago | [Code](https://github.com/Muhammadd-01/Affan-sPortolio) · [Live](https://affann-portfolio.vercel.app) |
+| **[Nexus AI](https://github.com/Muhammadd-01/Nexus_AI)** | TypeScript | 10 days ago | [Code](https://github.com/Muhammadd-01/Nexus_AI) |
 <!-- LATEST-REPOS:END -->
 
 <details>

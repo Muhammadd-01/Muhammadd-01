@@ -316,12 +316,12 @@ const affan = {
 <!-- LATEST-REPOS:START -->
 | Project | Stack | Updated | Links |
 |---|---|---|---|
-| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 7 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
-| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 16 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
-| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 17 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
-| **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 17 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
-| **[Affan sPortolio](https://github.com/Muhammadd-01/Affan-sPortolio)** | TypeScript | 19 days ago | [Code](https://github.com/Muhammadd-01/Affan-sPortolio) · [Live](https://affann-portfolio.vercel.app) |
-| **[Nexus AI](https://github.com/Muhammadd-01/Nexus_AI)** | TypeScript | 23 days ago | [Code](https://github.com/Muhammadd-01/Nexus_AI) |
+| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 8 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
+| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 17 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
+| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 18 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
+| **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 18 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
+| **[Affan sPortolio](https://github.com/Muhammadd-01/Affan-sPortolio)** | TypeScript | 20 days ago | [Code](https://github.com/Muhammadd-01/Affan-sPortolio) · [Live](https://affann-portfolio.vercel.app) |
+| **[Nexus AI](https://github.com/Muhammadd-01/Nexus_AI)** | TypeScript | 24 days ago | [Code](https://github.com/Muhammadd-01/Nexus_AI) |
 <!-- LATEST-REPOS:END -->
 
 <details>

@@ -316,12 +316,12 @@ const affan = {
 <!-- LATEST-REPOS:START -->
 | Project | Stack | Updated | Links |
 |---|---|---|---|
-| **[NexoVate Digital](https://github.com/Muhammadd-01/NexoVate-Digital)** | JavaScript | today | [Code](https://github.com/Muhammadd-01/NexoVate-Digital) · [Live](https://grow-hub-co.vercel.app) |
-| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | yesterday | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
-| **[Reference Websites](https://github.com/Muhammadd-01/Reference_Websites)** | TypeScript | 3 days ago | [Code](https://github.com/Muhammadd-01/Reference_Websites) |
-| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 21 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
-| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 22 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
-| **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 22 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
+| **[NexoVate Digital](https://github.com/Muhammadd-01/NexoVate-Digital)** | JavaScript | yesterday | [Code](https://github.com/Muhammadd-01/NexoVate-Digital) · [Live](https://grow-hub-co.vercel.app) |
+| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 2 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
+| **[Reference Websites](https://github.com/Muhammadd-01/Reference_Websites)** | TypeScript | 4 days ago | [Code](https://github.com/Muhammadd-01/Reference_Websites) |
+| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 22 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
+| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 23 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
+| **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 23 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
 <!-- LATEST-REPOS:END -->
 
 <details>

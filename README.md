@@ -316,12 +316,12 @@ const affan = {
 <!-- LATEST-REPOS:START -->
 | Project | Stack | Updated | Links |
 |---|---|---|---|
-| **[NexoVate Digital](https://github.com/Muhammadd-01/NexoVate-Digital)** | JavaScript | yesterday | [Code](https://github.com/Muhammadd-01/NexoVate-Digital) · [Live](https://grow-hub-co.vercel.app) |
-| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 6 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
-| **[Reference Websites](https://github.com/Muhammadd-01/Reference_Websites)** | TypeScript | 8 days ago | [Code](https://github.com/Muhammadd-01/Reference_Websites) |
-| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 26 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
-| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 27 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
-| **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 27 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
+| **[MeridianWebsite](https://github.com/Muhammadd-01/MeridianWebsite)** | JavaScript | today | [Code](https://github.com/Muhammadd-01/MeridianWebsite) |
+| **[NexoVate Digital](https://github.com/Muhammadd-01/NexoVate-Digital)** | JavaScript | 2 days ago | [Code](https://github.com/Muhammadd-01/NexoVate-Digital) · [Live](https://grow-hub-co.vercel.app) |
+| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 7 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
+| **[Reference Websites](https://github.com/Muhammadd-01/Reference_Websites)** | TypeScript | 9 days ago | [Code](https://github.com/Muhammadd-01/Reference_Websites) |
+| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 27 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
+| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 28 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
 <!-- LATEST-REPOS:END -->
 
 <details>

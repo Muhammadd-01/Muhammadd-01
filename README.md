@@ -316,12 +316,12 @@ const affan = {
 <!-- LATEST-REPOS:START -->
 | Project | Stack | Updated | Links |
 |---|---|---|---|
-| **[MeridianWebsite](https://github.com/Muhammadd-01/MeridianWebsite)** | JavaScript | 2 days ago | [Code](https://github.com/Muhammadd-01/MeridianWebsite) |
-| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 9 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
-| **[Reference Websites](https://github.com/Muhammadd-01/Reference_Websites)** | TypeScript | 11 days ago | [Code](https://github.com/Muhammadd-01/Reference_Websites) |
-| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 29 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
-| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 30 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
-| **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 30 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
+| **[MeridianWebsite](https://github.com/Muhammadd-01/MeridianWebsite)** | JavaScript | 3 days ago | [Code](https://github.com/Muhammadd-01/MeridianWebsite) |
+| **[Meridian Quality Management](https://github.com/Muhammadd-01/Meridian-Quality-Management)** | JavaScript | 10 days ago | [Code](https://github.com/Muhammadd-01/Meridian-Quality-Management) · [Live](https://meridian-quality-management.vercel.app) |
+| **[Reference Websites](https://github.com/Muhammadd-01/Reference_Websites)** | TypeScript | 12 days ago | [Code](https://github.com/Muhammadd-01/Reference_Websites) |
+| **[Meqmp](https://github.com/Muhammadd-01/Meqmp)** | HTML | 30 days ago | [Code](https://github.com/Muhammadd-01/Meqmp) · [Live](https://meqmp.vercel.app) |
+| **[Meridian LMS](https://github.com/Muhammadd-01/Meridian_LMS)** | JavaScript | 31 days ago | [Code](https://github.com/Muhammadd-01/Meridian_LMS) |
+| **[Pixel Punch](https://github.com/Muhammadd-01/Pixel_Punch)** | Dart | 31 days ago | [Code](https://github.com/Muhammadd-01/Pixel_Punch) |
 <!-- LATEST-REPOS:END -->
 
 <details>
